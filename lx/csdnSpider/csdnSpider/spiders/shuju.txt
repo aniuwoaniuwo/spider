@@ -1,0 +1,84 @@
+10224
+                  别乱说，算法才不是脑筋急转弯              
+5156
+                  TensorFlow 卷积神经网络之使用训练好的模型识别猫狗图片              
+2506
+                  Keras版Faster-RCNN代码学习（IOU，RPN）1              
+18
+                  SPPNet——空间金字塔池化              
+2111
+                  机器学习-1：MachineLN之三要素              
+3742
+                  机器学习实战(用Scikit-learn和TensorFlow进行机器学习)(二)              
+4419
+                  visdom的安装及在pytorch下损失函数的可视化应用              
+10471
+                  基础 | batchnorm原理及代码详解              
+1743
+                  python下进行lda主题挖掘(一)——预处理(英文)              
+988
+                  《机器学习》周志华-CH1 绪论              
+2779
+                  深度学习实战（一）快速理解实现风格迁移              
+2912
+                  GBDT原理与Sklearn源码分析-回归篇              
+74
+                  吴恩达深度学习第一课第四周作业及学习心得体会              
+3500
+                  GBDT原理与Sklearn源码分析-分类篇              
+1367
+                  深度学习系列：win10 搭建caffe tensorflow keras(GPU全基础篇）              
+2504
+                  Pytorch打怪路（一）pytorch进行CIFAR-10分类（1）CIFAR-10数据加载和处理              
+52
+                  机器学习实例（2）              
+2773
+                  决策树（decision tree）(二)——剪枝              
+3060
+                  PyTorch: 序列到序列模型(Seq2Seq)实现机器翻译实战              
+2777
+                  【深度学习】基于caffe的表情识别（一）：概述              
+2110
+                  【深度学习】基于caffe的表情识别（二）：数据集介绍及处理              
+
+16285
+                            机器学习实战(用Scikit-learn和TensorFlow进行机器学习)(二)                        
+14033
+                            visdom的安装及在pytorch下损失函数的可视化应用                        
+24156
+                            基础 | batchnorm原理及代码详解                        
+386
+                            小小甜菜深度学习爬坑记                        
+11180
+                            python下进行lda主题挖掘(一)——预处理(英文)                        
+11669
+                            《机器学习》周志华-CH1 绪论                        
+3061
+                            第二讲 cs224n系列之word2vec & 词向量                        
+13302
+                            深度学习实战（一）快速理解实现风格迁移                        
+32
+                            Parzen窗法进行无参数估计                        
+12493
+                            GBDT原理与Sklearn源码分析-回归篇                        
+13144
+                            GBDT原理与Sklearn源码分析-分类篇                        
+10867
+                            深度学习系列：win10 搭建caffe tensorflow keras(GPU全基础篇）                        
+12326
+                            Pytorch打怪路（一）pytorch进行CIFAR-10分类（1）CIFAR-10数据加载和处理                        
+27482
+                            TensorFlow 卷积神经网络之猫狗识别（二）                        
+14473
+                            SSD算法代码介绍（二）：训练算法整体架构                        
+2147
+                            pyLDA系列︱gensim中带'监督味'的作者-主题模型（Author-Topic Model）                        
+35039
+                            用AI给黑白照片上色，复现记忆中的旧时光                        
+12320
+                            决策树（decision tree）(二)——剪枝                        
+736
+                            深度学习基础模型算法原理及编程实现--01.感知机                        
+11681
+                            数据挖掘领域十大经典算法之—C4.5算法（超详细附代码）                        
+
