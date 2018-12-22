@@ -26,6 +26,8 @@ def get_json():
         response=requests.get(url,headers=headers)
         if response.status_code==200:
             ress1=response.json().get('data')
+            print(response.text)
+            print(response.json())
             for ress in ress1:
                 #print(ress)
                 if ress.get('image_list'):
