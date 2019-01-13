@@ -9,6 +9,7 @@ from multiprocessing import Pool,Process
 class novel(object):
     def __init__(self,url):
         self.baseurl = url#'https://xs.sogou.com'#全局变量
+        self.hreflist=[]
         iplist=['http://61.135.217.7:80']
         proxies=random.choice(iplist)
         proxies = {'http': proxies}
@@ -44,8 +45,10 @@ class novel(object):
                 #print(comtent)
                 file.write(zhangjie+"\n")
                 file.write(comtent+"\n")
-                if self.href=='':
+
+                if self.href in self.hreflist:#判断是否为最后一页，是就跳出
                     return
+                self.hreflist.append(self.href)
         except EOFError as e:
             print('except:',e)
         finally:
@@ -57,7 +60,7 @@ def main():
     for href in hreflist:
         p=Process(target=ater.spider,args=(href,))
         p.start()
-    p.join()
+    p.join()#应该每个进程的p都不同，在运行p.join(),下次再弄明白
     end=time.time()
     print('总共花费的时间为：', (end-start))
 if __name__=='__main__':
