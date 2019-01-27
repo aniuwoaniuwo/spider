@@ -1,6 +1,9 @@
 #-*-coding:utf-8-*-
 #这是一个爬取煎蛋妹子图的程序，可以挂在云服务器一直运行，每晚10点爬取最新一天的上传的美女图
-#用到了requests、lxml、正则、bs4抓取，同时设置定时，图片的链接加了密，首先需要解密，这里参考了别人的方法
+#用到了requests、lxml、正则、bs4抓取，同时设置定时，图片的链接加了密都变成了gif格式，首先需要解密，这里参考了别人的方法
+#妹子图的解密需要一个hash值还有一个js文件的参数，前者在imgurl后面接着，后者在一个js文件中，
+#hash值正则取到，js参数先正则拿到js文件url，再请求，正则获取js参数，然后两个参数放到jandan_load_img(this)函数才能得到图片的url，
+#具体参考http://tendcode.com/article/jiandan-meizi-spider/，里面是用c写的，作者了改成python，里面运用了md5加密和bash解码
 import requests
 from bs4 import BeautifulSoup
 import hashlib
@@ -46,7 +49,8 @@ class Spider(object):
                 print(times[j][-5])
                 print(times[j][-6])
                 if times[j][-5]=='y' or times[j][-6]=='y':#当页有前一天的就不再执行spider了
-                    self.g = 1#指示是否继续循环spider的标志
+                    self.k = 1#指示是否继续循环spider的标志
+                    self.g = 1
                     break#结束这个循环也就是结束这个while，continue是跳出这个循环，接着下一个循环也就是接着这个while的下一个循环
         else:
             self.get_urls(response)
@@ -130,15 +134,16 @@ class Spider(object):
 
 if __name__=='__main__':
     f = Spider()
-    url = 'http://jandan.net/ooxx/'
     while 1:
+        url = 'http://jandan.net/ooxx/'
         curr_time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
         love_time = curr_time.split(" ")[1]
         love_time = love_time[0:2]
         print('当前的小时数：',love_time)
-        if love_time == "22":#一直挂着就是每天这个点发送，如果想每个小时都发送，可以考虑在条件那里用到‘或’条件，不过不美观，建议提取时与分出来，直接切除前面几个字符love_time[3:8]就可以了
+        if love_time == "20":#一直挂着就是每天这个点发送，如果想每个小时都发送，可以考虑在条件那里用到‘或’条件，不过不美观，建议提取时与分出来，直接切除前面几个字符love_time[3:8]就可以了
+            f.k=0
             while 1:
-                if f.k==1 or f.g==1:#当前页面有一天前上传的图片，跳出循环
+                if f.k==1:#当前页面有一天前上传的图片，跳出循环
                     break
                 f.spider(url)
                 print('k:',f.k)
@@ -147,6 +152,6 @@ if __name__=='__main__':
                 time.sleep(30)#给个延时，不然会被封，反正时间不急
             print('今天的图已经下载完了，明天再来')
         else:
-            print('还没到10点，耐心等待一个小时再检测')
+            print('还没到8点，耐心等待一个小时再检测')
             print('祝你生活愉快！')
         time.sleep(3600)#一个小时监测一次

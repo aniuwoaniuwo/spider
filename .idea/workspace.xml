@@ -2,20 +2,102 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30dfdebf-28e2-47e4-bd21-4dd1ae6f5299" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yunmeizitu.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/御仙诀御仙诀_第106章 - 多多看书后的15章.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/御仙诀御仙诀_第131章 - 多多看书后的15章.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/御仙诀御仙诀_第16章 - 多多看书后的15章.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/御仙诀御仙诀_第1章 - 多多看书后的15章.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/御仙诀御仙诀_第31章 - 多多看书后的15章.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/御仙诀御仙诀_第46章 - 多多看书后的15章.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/御仙诀御仙诀_第61章 - 多多看书后的15章.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/御仙诀御仙诀_第76章 - 多多看书后的15章.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/御仙诀御仙诀_第91章 - 多多看书后的15章.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/pachong.iml" afterPath="$PROJECT_DIR$/.idea/pachong.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tianyancha.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图70.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图71.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图72.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图73.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图74.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图75.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图76.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图77.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图78.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图79.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图80.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图81.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图82.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图83.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图84.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图85.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图86.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图87.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图88.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图89.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图90.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图91.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiazaimuban.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图1.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图10.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图11.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图12.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图13.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图14.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图14.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图15.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图15.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图16.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图16.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图17.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图17.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图18.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图18.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图19.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图19.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图2.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图20.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图21.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图21.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图22.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图22.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图23.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图23.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图24.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图24.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图25.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图25.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图26.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图26.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图27.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图27.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图28.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图28.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图29.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图29.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图3.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图30.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图30.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图31.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图31.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图32.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图32.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图33.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图33.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图34.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图34.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图35.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图35.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图36.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图36.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图37.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图37.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图38.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图38.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图39.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图39.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图4.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图40.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图40.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图41.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图41.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图42.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图42.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图43.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图43.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图44.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图44.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图45.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图45.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图46.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图46.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图47.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图47.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图48.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图48.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图49.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图49.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图5.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图50.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图50.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图51.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图51.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图52.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图52.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图53.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图53.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图54.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图54.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图55.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图55.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图56.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图56.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图57.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图57.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图58.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图58.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图59.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图59.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图6.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图60.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图60.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图61.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图61.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图62.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图62.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图63.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图63.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图64.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图64.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图65.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图65.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图66.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图66.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图67.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图67.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图68.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图68.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图69.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图69.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图7.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图8.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图9.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图9.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.py" afterPath="$PROJECT_DIR$/1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/爬虫模板/requests.py" afterPath="$PROJECT_DIR$/爬虫模板/requests.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/geckodriver.log" afterPath="$PROJECT_DIR$/geckodriver.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yunmeizitu.py" afterPath="$PROJECT_DIR$/yunmeizitu.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,39 +121,51 @@
         </entry>
       </file>
       <file leaf-file-name="run.py" pinned="false" current-in-tab="false">
-        <entry file="file://C:/12306-master/run.py">
+        <entry file="file://C:/py2运行/zhongqq/run.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding>
-                <element signature="e#23#61#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="run.py" pinned="false" current-in-tab="false">
-        <entry file="file://C:/zhongqq/run.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="yunmeizitu.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="yunmeizitu.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/yunmeizitu.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="129" column="0" lean-forward="true" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
+            <state relative-caret-position="304">
+              <caret line="33" column="33" lean-forward="false" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
               <folding>
-                <element signature="e#129#144#0" expanded="true" />
-                <element signature="e#2257#2363#0" expanded="false" />
-                <element signature="e#2408#2588#0" expanded="false" />
-                <element signature="e#2637#3546#0" expanded="false" />
-                <element signature="e#3584#3711#0" expanded="false" />
-                <element signature="e#4553#5352#0" expanded="false" />
+                <element signature="e#369#384#0" expanded="true" />
+                <element signature="e#588#1457#0" expanded="false" />
+                <element signature="e#933#1423#0" expanded="false" />
+                <element signature="e#2528#2634#0" expanded="false" />
+                <element signature="e#2679#2859#0" expanded="false" />
+                <element signature="e#2908#3817#0" expanded="false" />
+                <element signature="e#3855#3982#0" expanded="false" />
+                <element signature="e#4025#4651#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="firefox+selenium.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/爬虫模板/firefox+selenium.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3097">
+              <caret line="167" column="30" lean-forward="false" selection-start-line="167" selection-start-column="30" selection-end-line="167" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tianyancha.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tianyancha.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="80" column="26" lean-forward="true" selection-start-line="80" selection-start-column="26" selection-end-line="80" selection-end-column="26" />
+              <folding>
+                <element signature="e#65#95#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -80,7 +174,7 @@
       <file leaf-file-name="request.py" pinned="false" current-in-tab="false">
         <entry file="file://C:/ProgramData/Anaconda3/Lib/urllib/request.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
+            <state relative-caret-position="6802">
               <caret line="383" column="0" lean-forward="false" selection-start-line="383" selection-start-column="0" selection-end-line="383" selection-end-column="0" />
               <folding />
             </state>
@@ -93,30 +187,6 @@
             <state relative-caret-position="133">
               <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ticketConf.py" pinned="false" current-in-tab="false">
-        <entry file="file://C:/12306-master/config/ticketConf.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="10" lean-forward="false" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-              <folding>
-                <element signature="e#45#54#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/yaml/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
-              <folding>
-                <element signature="e#11#31#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -166,9 +236,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="C:/interest/get_ip.py" />
-        <option value="C:/interest/dbcookie.py" />
-        <option value="$PROJECT_DIR$/scrapy/yaoshen/yaoshen/spiders/1.py" />
         <option value="$PROJECT_DIR$/scrapy/douban250/douban250/settings.py" />
         <option value="$PROJECT_DIR$/scrapy/douban250/douban250/spiders/spider.py" />
         <option value="$PROJECT_DIR$/scrapy/douban250/douban250/middlewares.py" />
@@ -217,13 +284,16 @@
         <option value="C:/12306-master/run.py" />
         <option value="$PROJECT_DIR$/爬虫模板/requests.py" />
         <option value="$PROJECT_DIR$/yunmeizitu.py" />
+        <option value="$PROJECT_DIR$/爬虫模板/firefox+selenium.py" />
+        <option value="$PROJECT_DIR$/5555.py" />
+        <option value="$PROJECT_DIR$/tianyancha.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="44" />
-    <option name="y" value="49" />
-    <option name="width" value="1109" />
+    <option name="x" value="197" />
+    <option name="y" value="123" />
+    <option name="width" value="1044" />
     <option name="height" value="612" />
   </component>
   <component name="ProjectView">
@@ -277,24 +347,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.yunmeizitu">
-    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pachong" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.tianyancha">
     <configuration name="meizitu" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -346,6 +399,23 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="tianyancha" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pachong" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tianyancha.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="yunmeizitu" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -364,19 +434,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.1" />
-      <item index="1" class="java.lang.String" itemvalue="Python.run" />
-      <item index="2" class="java.lang.String" itemvalue="Python.run (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Python.yunmeizitu" />
-      <item index="4" class="java.lang.String" itemvalue="Python.meizitu" />
+      <item index="0" class="java.lang.String" itemvalue="Python.run" />
+      <item index="1" class="java.lang.String" itemvalue="Python.run (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.yunmeizitu" />
+      <item index="3" class="java.lang.String" itemvalue="Python.meizitu" />
+      <item index="4" class="java.lang.String" itemvalue="Python.tianyancha" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.yunmeizitu" />
-        <item index="1" class="java.lang.String" itemvalue="Python.meizitu" />
-        <item index="2" class="java.lang.String" itemvalue="Python.run (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.run" />
-        <item index="4" class="java.lang.String" itemvalue="Python.1" />
+        <item index="0" class="java.lang.String" itemvalue="Python.tianyancha" />
+        <item index="1" class="java.lang.String" itemvalue="Python.yunmeizitu" />
+        <item index="2" class="java.lang.String" itemvalue="Python.meizitu" />
+        <item index="3" class="java.lang.String" itemvalue="Python.run (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.run" />
       </list>
     </recent_temporary>
   </component>
@@ -397,9 +467,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="44" y="49" width="1109" height="612" extended-state="0" />
+    <frame x="197" y="123" width="1044" height="612" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16682555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13313009" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32848233" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -408,7 +479,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3929314" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39285713" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -481,7 +552,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="109" />
+      <option name="time" value="114" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -490,28 +561,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/scrapy/yaoshen/yaoshen/spiders/spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiashan58tc/xiashan58tc/spiders/xiashan58tc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="596" column="0" lean-forward="false" selection-start-line="596" selection-start-column="0" selection-end-line="596" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wyy.py" />
     <entry file="file://$PROJECT_DIR$/xiashan58tc/xiashan58tc/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -524,13 +573,7 @@
     <entry file="file://C:/lx/1.py" />
     <entry file="file://C:/lx/2.py" />
     <entry file="file://$PROJECT_DIR$/2.py" />
-    <entry file="file://$PROJECT_DIR$/xiazaimuban.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="51" lean-forward="false" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/xiazaimuban.py" />
     <entry file="file://C:/myproject/myproject/settings.py" />
     <entry file="file://C:/ProgramData/Anaconda3/Lib/json/decoder.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -727,31 +770,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/12306-master/init/select_ticket_info.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/12306-master/config/ticketConf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="10" lean-forward="false" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-          <folding>
-            <element signature="e#45#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://C:/12306-master/init/select_ticket_info.py" />
+    <entry file="file://C:/12306-master/config/ticketConf.py" />
     <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/yaml/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
-          <folding>
-            <element signature="e#11#31#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -773,16 +797,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/12306-master/run.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding>
-            <element signature="e#23#61#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/爬虫模板/requests.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -793,10 +807,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/zhongqq/run.py">
+    <entry file="file://C:/zhongqq/run.py" />
+    <entry file="file://C:/12306-master/run.py" />
+    <entry file="file://C:/py2运行/zhongqq/run.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunmeizitu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="33" column="33" lean-forward="false" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+          <folding>
+            <element signature="e#369#384#0" expanded="true" />
+            <element signature="e#588#1457#0" expanded="false" />
+            <element signature="e#933#1423#0" expanded="false" />
+            <element signature="e#2528#2634#0" expanded="false" />
+            <element signature="e#2679#2859#0" expanded="false" />
+            <element signature="e#2908#3817#0" expanded="false" />
+            <element signature="e#3855#3982#0" expanded="false" />
+            <element signature="e#4025#4651#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫模板/firefox+selenium.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3097">
+          <caret line="167" column="30" lean-forward="false" selection-start-line="167" selection-start-column="30" selection-end-line="167" selection-end-column="30" />
           <folding />
         </state>
       </provider>
@@ -811,23 +852,19 @@
     </entry>
     <entry file="file://C:/ProgramData/Anaconda3/Lib/urllib/request.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
+        <state relative-caret-position="6802">
           <caret line="383" column="0" lean-forward="false" selection-start-line="383" selection-start-column="0" selection-end-line="383" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yunmeizitu.py">
+    <entry file="file://$PROJECT_DIR$/5555.py" />
+    <entry file="file://$PROJECT_DIR$/tianyancha.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="129" column="0" lean-forward="true" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
+        <state relative-caret-position="152">
+          <caret line="80" column="26" lean-forward="true" selection-start-line="80" selection-start-column="26" selection-end-line="80" selection-end-column="26" />
           <folding>
-            <element signature="e#129#144#0" expanded="true" />
-            <element signature="e#2257#2363#0" expanded="false" />
-            <element signature="e#2408#2588#0" expanded="false" />
-            <element signature="e#2637#3546#0" expanded="false" />
-            <element signature="e#3584#3711#0" expanded="false" />
-            <element signature="e#4553#5352#0" expanded="false" />
+            <element signature="e#65#95#0" expanded="true" />
           </folding>
         </state>
       </provider>
