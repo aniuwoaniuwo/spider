@@ -4,6 +4,7 @@ import time
 from selenium import webdriver
 import urllib.request
 from lxml import etree
+
 import re
 
 user="18813295794"
@@ -25,10 +26,6 @@ for i in range(1):
     #items = re.findall(pattern, selector)
     for item in items:
         print(item)
-
-
-
-
     time.sleep(10)#5秒延迟
 
 

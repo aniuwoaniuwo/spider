@@ -41,8 +41,6 @@ class douban(object):
         if url is None:
             return None
         with open('doubantxt.txt','a',encoding='utf-8') as f:
-
-
             proxies = {
                 'http': 'http://124.72.109.183:8118'
 
@@ -66,13 +64,8 @@ class douban(object):
                 print(title[0])
                 print(1)
                 f.write(title[0]+"\n")
-
-
-
                 #print(title, score, renshu, qita)
         lock.release()  # 释放锁
-
-
 
 if __name__ == '__main__':
     start = time.time()
@@ -81,7 +74,7 @@ if __name__ == '__main__':
     #p = Pool(4)
     lock=Lock()
     for f in range(10):
-        p=Process(target=ff.geturl, args=(f,lock))
+        p=Process(target=ff.geturl, args=(f,lock,))
         q = 25 * f
         p.start()
 

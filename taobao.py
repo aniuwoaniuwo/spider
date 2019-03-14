@@ -22,12 +22,12 @@ class taobao():
         driver=webdriver.Firefox()
         driver.maximize_window()  # 窗口最大化
         driver.get('https://uland.taobao.com/sem/tbsearch?refpid=mm_15891853_2192459_8654707&keyword=%E5%A5%B3%E8%A3%85&clk1=315358d81a06b080c93ddffd4a756ba9&upsid=315358d81a06b080c93ddffd4a756ba9')
-        driver.find_element_by_xpath('//*[@id="J_SiteNavLogin"]/div[1]/div[1]/a[1]').click()#点击登录按钮
+        '''driver.find_element_by_xpath('//*[@id="J_SiteNavLogin"]/div[1]/div[1]/a[1]').click()#点击登录按钮
         driver.find_element_by_xpath('//*[@id="J_QRCodeLogin"]/div[5]/a[1]').click()  # 点击密码登录
         driver.find_element_by_xpath('//*[@id="TPL_username_1"]').send_keys("18813295794")  # 输入账号
         driver.find_element_by_xpath('//*[@id="TPL_password_1"]').send_keys("18898604973tb")  # 输入密码
         driver.find_element_by_xpath('//*[@id="J_SubmitStatic"]').click()#点击登录
-        time.sleep(10)
+        time.sleep(10)'''
         driver.switch_to.default_content()#让wabdriver操纵当前页
         driver.find_element_by_xpath('//*[@id="q"]').click()
 

@@ -7,10 +7,6 @@ from multiprocessing import Pool,Lock,Process
 import os
 import openpyxl
 '''多进程的时间缩短了，可是存在xlsx这里会出错，因为各个进程基本同时进行，同时打开了xlsx，不能同时操作xlsx来保存数据，只保存了一个进程的数据，不过ide上打印出了所有的数据，考虑txt保存或者存入数据库或者加Lock就可以解决当前问题!!!经过验证，用TXT也不能解决，同样的原因。'''
-
-
-
-		
 '''		def set_style(self,name, height, bold=False):
 		style = xlwt.XFStyle()  # 初始化样式
 		font = xlwt.Font()  # 为样式创建字体
@@ -21,7 +17,6 @@ import openpyxl
 		style.font = font
 		return style'''
 
-
 def geturl(lock, i):
 	print(1)
 	print('now running process:%s' % os.getpid())
@@ -30,16 +25,13 @@ def geturl(lock, i):
 	re = i * 25
 	getxpath(url, lock, re)
 
-
 def getxpath(url, lock, re):
 	if url is None:
 		return None
 	#lock.acquire()  # 锁住
 	#with open('doubandjc.xlsx', 'a', encoding='utf-8') as f:
 	#try:
-
 		#wb = openpyxl.load_workbook("doubandjc.xlsx")
-
 		#table = wb.get_sheet_by_name('sheet1')  # 取第一张工作簿
 		#table = data.sheets()[0]  # 通过索引顺序获取table，Sheet1索引为0
 		#rowcount = table.nrows  # 总行数colsNum=table.ncols#获取列数
@@ -78,7 +70,6 @@ def getxpath(url, lock, re):
 		for i in range(len(data)):
 			table.write(re + m + 1, i, data[i])
 			#f.write(str(1))
-
 		m = m + 1
 		print(re + m + 1)
 		print(title, score, renshu, qita)
@@ -95,10 +86,8 @@ if __name__=='__main__':
 	table = data.sheets()[0]
 	lock = Lock()
 	print('now running process:%s' % os.getpid())
-
 	#p=Pool(4)
 	q=0
-
 	for f in range(10):
 		p=Process(target=geturl,args=(lock,f,))
 		#q=25*f

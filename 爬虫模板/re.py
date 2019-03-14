@@ -2,15 +2,16 @@
 #利用requests请求，正则表达式来解析网页，TXT、excel、数据库保存，带有headers，cookies，代理，
 import re
 import time
-import re,os,pymysql,random
+import os,pymysql,random
 import xlrd,xlwt
 import requests
 
 class Spider(object):
     def __init__(self):#这个适用非excel储存
-        iplist = ['http://61.135.217.7:80']
+        iplist = ['61.135.217.7:80']
         proxies = random.choice(iplist)
-        proxies = {'http': proxies}
+        # proxies = {'http': proxies}
+        proxies = {'http': 'http://' + proxies, 'https': 'https://' + proxies, }
         print(proxies)
         self.proxies = proxies
         referer=' '
@@ -20,9 +21,11 @@ class Spider(object):
 
 
     '''def __init__(self):#这个是适用excel储存
-        iplist = ['http://61.135.217.7:80']
+		self.m=0
+        iplist = ['61.135.217.7:80']
         proxies = random.choice(iplist)
-        proxies = {'http': proxies}
+        # proxies = {'http': proxies}
+        proxies = {'http': 'http://' + proxies, 'https': 'https://' + proxies, }
         print(proxies)
         self.proxies = proxies
         referer=' '
@@ -63,7 +66,6 @@ class Spider(object):
         with open('txt.txt', 'a', encoding='utf-8') as f:  # 不管存储过程发生什么错误都会保存
             for content in range(0,len(shujus)):
                 print(content)
-
                 f.write(content)
     def excel(self):
         response = requests.get(url, headers=self.headers, proxies=self.proxies).text
@@ -78,14 +80,14 @@ class Spider(object):
             dizhi = dizhis[i]
             biaoti = biaotis[i]
             jiage = jiages[i]
-            data.append(m + 1)
+            data.append(self.m + 1)
             data.append(dizhi)
             data.append(biaoti)
             data.append(jiage)
             for j in range(0, len(data)):
-                self.sheet.write(m + 1, j, data[j])
-            m = m + 1
-            print(m)
+                self.sheet.write(self.m + 1, j, data[j])
+            self.m = self.m + 1
+            print(self.m)
             self.shuju.save('58tongcheng.xlsx')
     def base(self,url):
         db = pymysql.connect(host='localhost', user='root', password='mysqlmm', port=3306, db='douban')  # db选择相应的数据库名称

@@ -7,9 +7,10 @@ from lxml import etree
 import xlrd,xlwt
 class Spider(object):
     def __init__(self):#这个适用非excel储存
-        iplist = ['http://61.135.217.7:80']
+        iplist = ['61.135.217.7:80']
         proxies = random.choice(iplist)
-        proxies = {'http': proxies}
+        # proxies = {'http': proxies}
+        proxies = {'http': 'http://' + proxies, 'https': 'https://' + proxies, }
         print(proxies)
         self.proxies = proxies
         referer=' '
@@ -19,9 +20,10 @@ class Spider(object):
 
 
     '''def __init__(self):#这个是适用excel储存
-        iplist = ['http://61.135.217.7:80']
+        iplist = ['61.135.217.7:80']
         proxies = random.choice(iplist)
-        proxies = {'http': proxies}
+        # proxies = {'http': proxies}
+        proxies = {'http': 'http://' + proxies, 'https': 'https://' + proxies, }
         print(proxies)
         self.proxies = proxies
         referer=' '

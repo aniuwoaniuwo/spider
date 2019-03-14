@@ -1,4 +1,5 @@
 #-*-coding:utf-8-*-
+#异步爬取，正则表达式去解析，保存到text中，以后加个“=======”或者其他的可以更加清楚
 import time
 import re
 import asyncio

@@ -2,102 +2,541 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30dfdebf-28e2-47e4-bd21-4dd1ae6f5299" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tianyancha.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图70.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图71.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图72.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图73.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图74.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图75.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图76.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图77.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图78.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图79.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图80.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图81.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图82.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图83.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图84.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图85.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图86.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图87.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图88.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图89.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/meizitu/美女图91.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xiazaimuban.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图1.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图10.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图11.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图11.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图12.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图12.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图13.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图13.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图14.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图14.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图15.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图15.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图16.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图16.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图17.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图17.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图18.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图18.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图19.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图19.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图2.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图20.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图20.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图21.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图21.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图22.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图22.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图23.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图23.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图24.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图24.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图25.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图25.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图26.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图26.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图27.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图27.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图28.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图28.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图29.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图29.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图3.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图30.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图30.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图31.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图31.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图32.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图32.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图33.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图33.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图34.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图34.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图35.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图35.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图36.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图36.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图37.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图37.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图38.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图38.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图39.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图39.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图4.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图40.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图40.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图41.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图41.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图42.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图42.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图43.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图43.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图44.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图44.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图45.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图45.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图46.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图46.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图47.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图47.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图48.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图48.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图49.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图49.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图5.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图50.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图50.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图51.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图51.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图52.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图52.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图53.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图53.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图54.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图54.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图55.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图55.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图56.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图56.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图57.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图57.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图58.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图58.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图59.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图59.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图6.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图60.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图60.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图61.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图61.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图62.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图62.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图63.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图63.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图64.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图64.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图65.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图65.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图66.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图66.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图67.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图67.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图68.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图68.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图69.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图69.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图7.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图8.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meizitu/美女图9.jpg" afterPath="$PROJECT_DIR$/meizitu/美女图9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gowhere.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maoyan.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tbselenium.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yanzhengma/huadong.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yimusanfendi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/爬虫模板/replaceceshi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/爬虫模板/zhengzeceshi.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/66.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/888.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/999.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ceshi.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/.idea/lianxi.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/blokblok/.idea/blokblok.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/blokblok/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/blokblok/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/blokblok/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/blokblok/111.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/blokblok/app1_fixture.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/blokblok/blok/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/blokblok/blok/admin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/blokblok/blok/apps.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/blokblok/blok/migrations/0001_initial.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/blokblok/blok/migrations/0002_auto_20180809_2301.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/blokblok/blok/migrations/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/blokblok/blok/models.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/blokblok/blok/templates/home.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/blokblok/blok/templates/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/blokblok/blok/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/blokblok/blok/views.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/blokblok/blok_dump.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/blokblok/blokblok/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/blokblok/blokblok/settings.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/blokblok/blokblok/urls.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/blokblok/blokblok/wsgi.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/blokblok/blokblok_all_data.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/blokblok/database_router.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/blokblok/db.sqlite3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/blokblok/manage.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/blokblok/persons.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/blokblok/ppp.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/bloks/blok/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/bloks/blok/admin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/bloks/blok/apps.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/bloks/blok/migrations/0001_initial.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/bloks/blok/migrations/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/bloks/blok/models.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/bloks/blok/templates/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/bloks/blok/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/bloks/blok/views.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/bloks/bloks/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/bloks/bloks/settings.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/bloks/bloks/urls.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/bloks/bloks/wsgi.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/bloks/db.sqlite3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/bloks/manage.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/db.sqlite3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/dj/.idea/dj.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/dj/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/dj/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/dj/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/dj/db.sqlite3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/dj/dj/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/dj/dj/context_processor.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/dj/dj/settings.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/dj/dj/urls.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/dj/dj/wsgi.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/dj/djdj/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/dj/djdj/admin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/dj/djdj/apps.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/dj/djdj/migrations/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/dj/djdj/models.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/dj/djdj/templates/article_detail.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/dj/djdj/templates/columns.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/dj/djdj/templates/djdj/columns.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/dj/djdj/templates/djdj/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/dj/djdj/templates/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/dj/djdj/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/dj/djdj/views.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/dj/manage.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/jj/db.sqlite3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/jj/jj/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/jj/jj/settings.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/jj/jj/urls.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/jj/jj/wsgi.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/jj/js/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/jj/js/admin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/jj/js/apps.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/jj/js/migrations/0001_initial.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/jj/js/migrations/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/jj/js/models.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/jj/js/templates/base.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/jj/js/templates/home.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/jj/js/templates/home1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/jj/js/templates/js/base.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/jj/js/templates/js/home.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/jj/js/templates/js/home1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/jj/js/templates/js/sanguo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/jj/js/templates/ruguo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/jj/js/templates/sanguo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/jj/js/templates/template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/jj/js/templates/xunhuan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/jj/js/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/jj/js/views.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/jj/manage.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/learn/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/learn/admin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/learn/apps.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/learn/forms.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/learn/migrations/0001_initial.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/learn/migrations/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/learn/models.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/learn/templates/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/learn/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/learn/views.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/lianxi/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/lianxi/settings.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/lianxi/urls.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/lianxi/wsgi.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/manage.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/ts.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/.idea/xiangmu.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/adminx.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/commands.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/forms.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/models.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/settings.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/UEditorSnapscreen.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/_examples/addCustomizeButton.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/_examples/addCustomizeCombox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/_examples/addCustomizeDialog.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/_examples/charts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/_examples/completeDemo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/_examples/customPluginDemo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/_examples/customToolbarDemo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/_examples/customizeDialogPage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/_examples/customizeToolbarUIDemo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/_examples/editor_api.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/_examples/filterRuleDemo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/_examples/highlightDemo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/_examples/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/_examples/jqueryCompleteDemo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/_examples/jqueryValidation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/_examples/multiDemo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/_examples/multiEditorWithOneInstance.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/_examples/renderInTable.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/_examples/resetDemo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/_examples/sectiondemo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/_examples/server/getContent.ashx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/_examples/server/getContent.asp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/_examples/server/getContent.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/_examples/server/getContent.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/_examples/setWidthHeightDemo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/_examples/simpleDemo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/_examples/sortableDemo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/_examples/submitFormDemo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/_examples/textareaDemo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/_examples/uparsedemo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/anchor/anchor.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/attachment/attachment.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/attachment/attachment.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/attachment/attachment.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/attachment/fileTypeImages/icon_chm.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/attachment/fileTypeImages/icon_doc.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/attachment/fileTypeImages/icon_exe.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/attachment/fileTypeImages/icon_jpg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/attachment/fileTypeImages/icon_mp3.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/attachment/fileTypeImages/icon_mv.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/attachment/fileTypeImages/icon_pdf.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/attachment/fileTypeImages/icon_ppt.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/attachment/fileTypeImages/icon_rar.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/attachment/fileTypeImages/icon_txt.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/attachment/fileTypeImages/icon_xls.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/attachment/images/alignicon.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/attachment/images/alignicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/attachment/images/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/attachment/images/file-icons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/attachment/images/file-icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/attachment/images/icons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/attachment/images/icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/attachment/images/image.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/attachment/images/progress.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/attachment/images/success.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/attachment/images/success.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/background/background.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/background/background.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/background/background.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/background/images/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/background/images/success.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/charts/chart.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/charts/charts.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/charts/charts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/charts/charts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/charts/images/charts0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/charts/images/charts1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/charts/images/charts2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/charts/images/charts3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/charts/images/charts4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/charts/images/charts5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/emotion/emotion.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/emotion/emotion.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/emotion/emotion.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/emotion/images/0.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/emotion/images/bface.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/emotion/images/cface.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/emotion/images/fface.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/emotion/images/jxface2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/emotion/images/neweditor-tab-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/emotion/images/tface.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/emotion/images/wface.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/emotion/images/yface.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/gmap/gmap.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/help/help.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/help/help.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/help/help.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/image/image.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/image/image.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/image/image.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/image/images/alignicon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/image/images/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/image/images/icons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/image/images/icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/image/images/image.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/image/images/progress.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/image/images/success.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/image/images/success.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/insertframe/insertframe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/internal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/link/link.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/map/map.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/map/show.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/music/music.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/music/music.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/music/music.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/preview/preview.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/scrawl/images/addimg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/scrawl/images/brush.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/scrawl/images/delimg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/scrawl/images/delimgH.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/scrawl/images/empty.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/scrawl/images/emptyH.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/scrawl/images/eraser.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/scrawl/images/redo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/scrawl/images/redoH.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/scrawl/images/scale.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/scrawl/images/scaleH.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/scrawl/images/size.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/scrawl/images/undo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/scrawl/images/undoH.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/scrawl/scrawl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/scrawl/scrawl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/scrawl/scrawl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/searchreplace/searchreplace.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/searchreplace/searchreplace.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/snapscreen/snapscreen.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/spechars/spechars.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/spechars/spechars.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/table/dragicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/table/edittable.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/table/edittable.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/table/edittable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/table/edittd.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/table/edittip.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/template/config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/template/images/bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/template/images/pre0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/template/images/pre1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/template/images/pre2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/template/images/pre3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/template/images/pre4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/template/template.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/template/template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/template/template.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/video/images/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/video/images/center_focus.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/video/images/file-icons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/video/images/file-icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/video/images/icons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/video/images/icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/video/images/image.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/video/images/left_focus.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/video/images/none_focus.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/video/images/progress.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/video/images/right_focus.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/video/images/success.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/video/images/success.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/video/video.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/video/video.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/video/video.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/webapp/webapp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/wordimage/fClipboard_ueditor.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/wordimage/imageUploader.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/wordimage/tangram.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/wordimage/wordimage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/dialogs/wordimage/wordimage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/lang/en/en.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/lang/en/images/addimage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/lang/en/images/alldeletebtnhoverskin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/lang/en/images/alldeletebtnupskin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/lang/en/images/background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/lang/en/images/button.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/lang/en/images/copy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/lang/en/images/deletedisable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/lang/en/images/deleteenable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/lang/en/images/listbackground.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/lang/en/images/localimage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/lang/en/images/music.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/lang/en/images/rotateleftdisable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/lang/en/images/rotateleftenable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/lang/en/images/rotaterightdisable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/lang/en/images/rotaterightenable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/lang/en/images/upload.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/lang/zh-cn/images/copy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/lang/zh-cn/images/localimage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/lang/zh-cn/images/music.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/lang/zh-cn/images/upload.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/lang/zh-cn/zh-cn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/php/Uploader.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/php/action_crawler.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/php/action_list.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/php/action_upload.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/php/config.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/php/controller.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/themes/default/css/ueditor.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/themes/default/css/ueditor.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/themes/default/dialogbase.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/themes/default/images/anchor.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/themes/default/images/arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/themes/default/images/arrow_down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/themes/default/images/arrow_up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/themes/default/images/button-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/themes/default/images/cancelbutton.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/themes/default/images/charts.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/themes/default/images/cursor_h.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/themes/default/images/cursor_h.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/themes/default/images/cursor_v.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/themes/default/images/cursor_v.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/themes/default/images/dialog-title-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/themes/default/images/fileScan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/themes/default/images/highlighted.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/themes/default/images/icons-all.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/themes/default/images/icons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/themes/default/images/icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/themes/default/images/loaderror.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/themes/default/images/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/themes/default/images/lock.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/themes/default/images/neweditor-tab-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/themes/default/images/pagebreak.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/themes/default/images/scale.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/themes/default/images/sortable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/themes/default/images/spacer.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/themes/default/images/sparator_v.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/themes/default/images/table-cell-align.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/themes/default/images/tangram-colorpicker.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/themes/default/images/toolbar_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/themes/default/images/unhighlighted.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/themes/default/images/upload.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/themes/default/images/videologo.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/themes/default/images/word.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/themes/default/images/wordpaste.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/themes/iframe.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/SyntaxHighlighter/shCore.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/SyntaxHighlighter/shCoreDefault.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/codemirror/codemirror.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/codemirror/codemirror.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/highcharts/adapters/mootools-adapter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/highcharts/adapters/mootools-adapter.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/highcharts/adapters/prototype-adapter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/highcharts/adapters/prototype-adapter.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/highcharts/adapters/standalone-framework.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/highcharts/adapters/standalone-framework.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/highcharts/highcharts-more.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/highcharts/highcharts-more.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/highcharts/highcharts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/highcharts/highcharts.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/highcharts/modules/annotations.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/highcharts/modules/annotations.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/highcharts/modules/canvas-tools.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/highcharts/modules/canvas-tools.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/highcharts/modules/data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/highcharts/modules/data.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/highcharts/modules/drilldown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/highcharts/modules/drilldown.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/highcharts/modules/exporting.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/highcharts/modules/exporting.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/highcharts/modules/funnel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/highcharts/modules/funnel.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/highcharts/modules/heatmap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/highcharts/modules/heatmap.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/highcharts/modules/map.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/highcharts/modules/map.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/highcharts/modules/no-data-to-display.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/highcharts/modules/no-data-to-display.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/highcharts/themes/dark-blue.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/highcharts/themes/dark-green.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/highcharts/themes/gray.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/highcharts/themes/grid.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/highcharts/themes/skies.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/jquery-1.10.2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/jquery-1.10.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/jquery-1.10.2.min.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/snapscreen/UEditorSnapscreen.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/video-js/font/vjs.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/video-js/font/vjs.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/video-js/font/vjs.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/video-js/font/vjs.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/video-js/video-js.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/video-js/video-js.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/video-js/video-js.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/video-js/video.dev.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/video-js/video.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/webuploader/Uploader.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/webuploader/webuploader.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/webuploader/webuploader.custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/webuploader/webuploader.custom.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/webuploader/webuploader.flashonly.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/webuploader/webuploader.flashonly.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/webuploader/webuploader.html5only.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/webuploader/webuploader.html5only.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/webuploader/webuploader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/webuploader/webuploader.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/webuploader/webuploader.withoutimage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/webuploader/webuploader.withoutimage.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/zeroclipboard/ZeroClipboard.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/zeroclipboard/ZeroClipboard.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/third-party/zeroclipboard/ZeroClipboard.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/ueditor.all.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/ueditor.all.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/ueditor.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/ueditor.parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/static/ueditor/ueditor.parse.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/templates/ueditor.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/templates/ueditor_old.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/urls.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/utils.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/views.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/DjangoUeditor/widgets.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/create_demo_records.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/db.sqlite3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/lianxi/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/lianxi/admin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/lianxi/apps.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/lianxi/migrations/0001_initial.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/lianxi/migrations/0002_auto_20180815_2213.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/lianxi/migrations/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/lianxi/models.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/lianxi/templates/article.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/lianxi/templates/column.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/lianxi/templates/lianxi/article.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/lianxi/templates/lianxi/column.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/lianxi/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/lianxi/views.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/manage.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/templates/baidutongji.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/templates/base.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/templates/base_simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/templates/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/xiangmu/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/xiangmu/settings.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/xiangmu/urls.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi/xiangmu/xiangmu/wsgi.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lx/1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lx/123.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lx/2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lx/456.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lx/hello.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lx/monitoudouban.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/musicspider.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrapyqiushi/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrapyqiushi/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrapyqiushi/.idea/scrapyqiushi.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrapyqiushi/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrapyqiushi/scrapy.cfg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrapyqiushi/scrapyqiushi/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrapyqiushi/scrapyqiushi/items.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrapyqiushi/scrapyqiushi/middlewares.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrapyqiushi/scrapyqiushi/pipelines.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrapyqiushi/scrapyqiushi/settings.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrapyqiushi/scrapyqiushi/spiders/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrapyqiushi/scrapyqiushi/spiders/spider.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tc/scrapy.cfg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tc/tc/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tc/tc/items.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tc/tc/middlewares.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tc/tc/pipelines.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tc/tc/settings.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tc/tc/spiders/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tc/tc/spiders/spider.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/votes.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiashan58tc/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiashan58tc/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiashan58tc/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiashan58tc/.idea/xiashan58tc.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiashan58tc/begin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiashan58tc/scrapy.cfg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiashan58tc/xiashan.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiashan58tc/xiashan58tc/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiashan58tc/xiashan58tc/items.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiashan58tc/xiashan58tc/middlewares.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiashan58tc/xiashan58tc/pipelines.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiashan58tc/xiashan58tc/settings.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiashan58tc/xiashan58tc/spiders/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiashan58tc/xiashan58tc/spiders/xiashan58tc.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiashan58tc/东海租房.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yunmeizitu.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/美女图193.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tbjt.xlsx" afterPath="$PROJECT_DIR$/tbjt.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tianyancha.xlsx" afterPath="$PROJECT_DIR$/tianyancha.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doubandjc.py" afterPath="$PROJECT_DIR$/doubandjc.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doubandjctxt.py" afterPath="$PROJECT_DIR$/doubandjctxt.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/geckodriver.log" afterPath="$PROJECT_DIR$/geckodriver.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yunmeizitu.py" afterPath="$PROJECT_DIR$/yunmeizitu.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/itjuzi.py" afterPath="$PROJECT_DIR$/itjuzi.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lianxi.py" afterPath="$PROJECT_DIR$/lianxi.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lx/yanzhengma.py" afterPath="$PROJECT_DIR$/lx/yanzhengma.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taobao.py" afterPath="$PROJECT_DIR$/taobao.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tianyancha.py" afterPath="$PROJECT_DIR$/tianyancha.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yibu.py" afterPath="$PROJECT_DIR$/yibu.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yibuqiushi.txt" afterPath="$PROJECT_DIR$/yibuqiushi.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/爬虫模板/.idea/workspace.xml" afterPath="$PROJECT_DIR$/爬虫模板/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/爬虫模板/firefox+selenium.py" afterPath="$PROJECT_DIR$/爬虫模板/firefox+selenium.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/爬虫模板/re.py" afterPath="$PROJECT_DIR$/爬虫模板/re.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/爬虫模板/requests.py" afterPath="$PROJECT_DIR$/爬虫模板/requests.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -108,106 +547,111 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="requests.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/爬虫模板/requests.py">
+      <file leaf-file-name="doubandjc.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doubandjc.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+            <state relative-caret-position="1330">
+              <caret line="77" column="12" lean-forward="false" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="12" />
               <folding>
-                <element signature="e#81#96#0" expanded="true" />
+                <element signature="e#0#15#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="run.py" pinned="false" current-in-tab="false">
-        <entry file="file://C:/py2运行/zhongqq/run.py">
+      <file leaf-file-name="Image.py" pinned="false" current-in-tab="false">
+        <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/PIL/Image.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="48222">
+              <caret line="2542" column="0" lean-forward="false" selection-start-line="2542" selection-start-column="0" selection-end-line="2542" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="yunmeizitu.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yunmeizitu.py">
+      <file leaf-file-name="dianchu.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yanzhengma/dianchu.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="33" column="33" lean-forward="false" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+            <state relative-caret-position="-607">
+              <caret line="45" column="41" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="45" selection-end-column="41" />
               <folding>
-                <element signature="e#369#384#0" expanded="true" />
-                <element signature="e#588#1457#0" expanded="false" />
-                <element signature="e#933#1423#0" expanded="false" />
-                <element signature="e#2528#2634#0" expanded="false" />
-                <element signature="e#2679#2859#0" expanded="false" />
-                <element signature="e#2908#3817#0" expanded="false" />
-                <element signature="e#3855#3982#0" expanded="false" />
-                <element signature="e#4025#4651#0" expanded="false" />
+                <element signature="e#111#141#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="firefox+selenium.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/爬虫模板/firefox+selenium.py">
+      <file leaf-file-name="douban250daili.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/douban250daili.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3097">
-              <caret line="167" column="30" lean-forward="false" selection-start-line="167" selection-start-column="30" selection-end-line="167" selection-end-column="30" />
+            <state relative-caret-position="1007">
+              <caret line="57" column="15" lean-forward="false" selection-start-line="57" selection-start-column="15" selection-end-line="57" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tianyancha.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tianyancha.py">
+      <file leaf-file-name="dbdjcbase.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dbdjcbase.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="80" column="26" lean-forward="true" selection-start-line="80" selection-start-column="26" selection-end-line="80" selection-end-column="26" />
+            <state relative-caret-position="1121">
+              <caret line="64" column="34" lean-forward="false" selection-start-line="64" selection-start-column="34" selection-end-line="64" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="qiushi.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/qiushi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="89">
+              <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
               <folding>
-                <element signature="e#65#95#0" expanded="true" />
+                <element signature="e#31#40#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="request.py" pinned="false" current-in-tab="false">
-        <entry file="file://C:/ProgramData/Anaconda3/Lib/urllib/request.py">
+      <file leaf-file-name="huadong.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/yanzhengma/huadong.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6802">
-              <caret line="383" column="0" lean-forward="false" selection-start-line="383" selection-start-column="0" selection-end-line="383" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="meizitu.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/meizitu.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="loader.py" pinned="false" current-in-tab="false">
-        <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/yaml/loader.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+            <state relative-caret-position="76">
+              <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
               <folding>
-                <element signature="e#61#82#0" expanded="true" />
+                <element signature="e#219#249#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="reader.py" pinned="false" current-in-tab="false">
-        <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/yaml/reader.py">
+      <file leaf-file-name="crack.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.332.1424/HZ$D.332.1425/CrackGeetest-master/crack.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+            <state relative-caret-position="4123">
+              <caret line="217" column="17" lean-forward="true" selection-start-line="217" selection-start-column="17" selection-end-line="217" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="yibu.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yibu.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="35" column="27" lean-forward="true" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chaojiying.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yanzhengma/chaojiying.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="931">
+              <caret line="50" column="52" lean-forward="false" selection-start-line="50" selection-start-column="52" selection-end-line="50" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -236,65 +680,65 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/scrapy/douban250/douban250/settings.py" />
-        <option value="$PROJECT_DIR$/scrapy/douban250/douban250/spiders/spider.py" />
-        <option value="$PROJECT_DIR$/scrapy/douban250/douban250/middlewares.py" />
-        <option value="$PROJECT_DIR$/scrapy/tongczf/tongczf/items.py" />
-        <option value="$PROJECT_DIR$/scrapy/tongczf/tongczf/middlewares.py" />
-        <option value="$PROJECT_DIR$/scrapy/tongczf/tongczf/spiders/spider.py" />
-        <option value="$PROJECT_DIR$/scrapy/tongczf/tongczf/settings.py" />
-        <option value="$PROJECT_DIR$/tc/tc/settings.py" />
-        <option value="$PROJECT_DIR$/tc/tc/spiders/spider.py" />
-        <option value="$PROJECT_DIR$/scrapy/yaoshen/yaoshen/settings.py" />
-        <option value="$PROJECT_DIR$/scrapy/yaoshen/yaoshen/middlewares.py" />
-        <option value="$PROJECT_DIR$/scrapy/yaoshen/yaoshen/spiders/spider.py" />
-        <option value="$PROJECT_DIR$/xiashan58tc/xiashan58tc/middlewares.py" />
-        <option value="$PROJECT_DIR$/xiashan58tc/xiashan58tc/pipelines.py" />
-        <option value="$PROJECT_DIR$/xiashan58tc/xiashan58tc/settings.py" />
-        <option value="$PROJECT_DIR$/xiashan58tc/xiashan58tc/spiders/xiashan58tc.py" />
-        <option value="$PROJECT_DIR$/scrapy/zufang/zufang/spiders/spider.py" />
-        <option value="$PROJECT_DIR$/huadongyzm.py" />
-        <option value="$PROJECT_DIR$/wyy.py" />
-        <option value="$PROJECT_DIR$/下载模板.py" />
-        <option value="$PROJECT_DIR$/2.py" />
-        <option value="$PROJECT_DIR$/xiazaimuban.py" />
-        <option value="C:/interest/pillow.py" />
-        <option value="C:/myproject/myproject/settings.py" />
-        <option value="$PROJECT_DIR$/musicspider.py" />
-        <option value="$PROJECT_DIR$/ajaxjiepai.py" />
-        <option value="$PROJECT_DIR$/999.py" />
-        <option value="C:/base/lianxi.py" />
-        <option value="C:/base/gengxin.py" />
-        <option value="C:/base/delete.py" />
-        <option value="$PROJECT_DIR$/ipxrcomment.py" />
-        <option value="$PROJECT_DIR$/iphonexrcomment.py" />
-        <option value="$PROJECT_DIR$/66.py" />
-        <option value="$PROJECT_DIR$/iphonexrdjc.py" />
-        <option value="C:/base/select.py" />
-        <option value="C:/interest/ipchi.py" />
-        <option value="$PROJECT_DIR$/novel.py" />
-        <option value="$PROJECT_DIR$/xunhuan.py" />
-        <option value="C:/interest/wechat.py" />
-        <option value="$PROJECT_DIR$/1.py" />
-        <option value="C:/12306-master/init/select_ticket_info.py" />
-        <option value="C:/12306-master/config/ticketConf.py" />
-        <option value="C:/ProgramData/Anaconda3/Lib/site-packages/yaml/__init__.py" />
         <option value="C:/ProgramData/Anaconda3/Lib/site-packages/yaml/loader.py" />
         <option value="C:/ProgramData/Anaconda3/Lib/site-packages/yaml/reader.py" />
         <option value="C:/12306-master/run.py" />
-        <option value="$PROJECT_DIR$/爬虫模板/requests.py" />
         <option value="$PROJECT_DIR$/yunmeizitu.py" />
-        <option value="$PROJECT_DIR$/爬虫模板/firefox+selenium.py" />
         <option value="$PROJECT_DIR$/5555.py" />
         <option value="$PROJECT_DIR$/tianyancha.py" />
+        <option value="$PROJECT_DIR$/爬虫模板/scrapy/yaoshen/spiders/spider.py" />
+        <option value="$PROJECT_DIR$/爬虫模板/scrapy/yaoshen/pipelines.py" />
+        <option value="$PROJECT_DIR$/111.py" />
+        <option value="C:/interest/creat_ip.py" />
+        <option value="C:/interest/get_ip.py" />
+        <option value="C:/interest/ipchi.py" />
+        <option value="C:/interest/spider_ip.py" />
+        <option value="C:/interest/testip.py" />
+        <option value="C:/interest/get_usefulip.py" />
+        <option value="C:/interest/test_ip.py" />
+        <option value="$PROJECT_DIR$/爬虫模板/re.py" />
+        <option value="$PROJECT_DIR$/爬虫模板/requests.py" />
+        <option value="$PROJECT_DIR$/爬虫模板/mprocess.py" />
+        <option value="$PROJECT_DIR$/爬虫模板/async.py" />
+        <option value="$PROJECT_DIR$/爬虫模板/firefox+selenium.py" />
+        <option value="C:/base/lianxi.py" />
+        <option value="C:/base/select.py" />
+        <option value="C:/base/updatedata.py" />
+        <option value="C:/base/deletedata.py" />
+        <option value="C:/base/createdb.py" />
+        <option value="$PROJECT_DIR$/lx/yanzhengma.py" />
+        <option value="$PROJECT_DIR$/破解验证码/tuxing.py" />
+        <option value="$PROJECT_DIR$/maoyan.py" />
+        <option value="$PROJECT_DIR$/taobao.py" />
+        <option value="$PROJECT_DIR$/proxies/get_usefulip.py" />
+        <option value="$PROJECT_DIR$/proxies/test_ip.py" />
+        <option value="$PROJECT_DIR$/itjuzi.py" />
+        <option value="$PROJECT_DIR$/gowhere.py" />
+        <option value="$PROJECT_DIR$/tbselenium.py" />
+        <option value="$PROJECT_DIR$/破解验证码/dianchu.py" />
+        <option value="$USER_HOME$/Desktop/chaojiying_Python/chaojiying.py" />
+        <option value="C:/ProgramData/Anaconda3/Lib/site-packages/tesseract/__init__.py" />
+        <option value="C:/ProgramData/Anaconda3/Lib/site-packages/pytesseract/pytesseract.py" />
+        <option value="$PROJECT_DIR$/lianxi.py" />
+        <option value="$PROJECT_DIR$/爬虫模板/replaceceshi.py" />
+        <option value="$PROJECT_DIR$/爬虫模板/zhengzeceshi.py" />
+        <option value="$PROJECT_DIR$/sfd.json" />
+        <option value="$PROJECT_DIR$/yanzhengma/tuxing.py" />
+        <option value="$PROJECT_DIR$/yimusanfendi.py" />
+        <option value="$PROJECT_DIR$/doubandjctxt.py" />
+        <option value="$PROJECT_DIR$/doubandjc.py" />
+        <option value="$PROJECT_DIR$/yanzhengma/chaojiying.py" />
+        <option value="$PROJECT_DIR$/yibu.py" />
+        <option value="$PROJECT_DIR$/yanzhengma/dianchu.py" />
+        <option value="$PROJECT_DIR$/yanzhengma/huadong.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="197" />
-    <option name="y" value="123" />
-    <option name="width" value="1044" />
-    <option name="height" value="612" />
+    <option name="x" value="205" />
+    <option name="y" value="64" />
+    <option name="width" value="953" />
+    <option name="height" value="635" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -311,7 +755,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -319,11 +763,16 @@
               <item name="spider" type="b2602c69:ProjectViewProjectNode" />
               <item name="spider" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spider" type="462c0819:PsiDirectoryNode" />
+              <item name="yanzhengma" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -347,8 +796,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tianyancha">
-    <configuration name="meizitu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.tuxing">
+    <configuration name="lianxi" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -360,46 +809,46 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pachong" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/meizitu.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lianxi.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="run (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="replaceceshi" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="C:/zhongqq" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫模板" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pachong" />
-      <option name="SCRIPT_NAME" value="C:/zhongqq/run.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫模板/replaceceshi.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tuxing" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="C:/12306-master" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yanzhengma" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pachong" />
-      <option name="SCRIPT_NAME" value="C:/12306-master/run.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yanzhengma/tuxing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="tianyancha" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="yimusanfendi" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -411,42 +860,42 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pachong" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tianyancha.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yimusanfendi.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="yunmeizitu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="zhengzeceshi" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫模板" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pachong" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yunmeizitu.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫模板/zhengzeceshi.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.run" />
-      <item index="1" class="java.lang.String" itemvalue="Python.run (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Python.yunmeizitu" />
-      <item index="3" class="java.lang.String" itemvalue="Python.meizitu" />
-      <item index="4" class="java.lang.String" itemvalue="Python.tianyancha" />
+      <item index="0" class="java.lang.String" itemvalue="Python.lianxi" />
+      <item index="1" class="java.lang.String" itemvalue="Python.tuxing" />
+      <item index="2" class="java.lang.String" itemvalue="Python.yimusanfendi" />
+      <item index="3" class="java.lang.String" itemvalue="Python.zhengzeceshi" />
+      <item index="4" class="java.lang.String" itemvalue="Python.replaceceshi" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.tianyancha" />
-        <item index="1" class="java.lang.String" itemvalue="Python.yunmeizitu" />
-        <item index="2" class="java.lang.String" itemvalue="Python.meizitu" />
-        <item index="3" class="java.lang.String" itemvalue="Python.run (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Python.run" />
+        <item index="0" class="java.lang.String" itemvalue="Python.tuxing" />
+        <item index="1" class="java.lang.String" itemvalue="Python.yimusanfendi" />
+        <item index="2" class="java.lang.String" itemvalue="Python.zhengzeceshi" />
+        <item index="3" class="java.lang.String" itemvalue="Python.replaceceshi" />
+        <item index="4" class="java.lang.String" itemvalue="Python.lianxi" />
       </list>
     </recent_temporary>
   </component>
@@ -467,19 +916,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="197" y="123" width="1044" height="612" extended-state="0" />
+    <frame x="205" y="64" width="953" height="635" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13313009" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15229563" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32848233" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4159664" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31863728" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39285713" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43286574" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -515,33 +964,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://C:/base/delete.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="57" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/douban250daili.py</url>
-          <line>75</line>
-          <option name="timeStamp" value="58" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/huadongyzm.py</url>
-          <line>19</line>
-          <option name="timeStamp" value="59" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/meizitu1.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="61" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/qiushi.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="62" />
-        </line-breakpoint>
-      </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
@@ -552,7 +974,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="114" />
+      <option name="time" value="126" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -561,310 +983,314 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/xiashan58tc/xiashan58tc/pipelines.py">
+    <entry file="file://C:/git/lianxi/lianxi.py" />
+    <entry file="file://$PROJECT_DIR$/999.py" />
+    <entry file="file://C:/base/deletedata.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="15" column="38" lean-forward="false" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        <state relative-caret-position="19">
+          <caret line="1" column="10" lean-forward="false" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/lx/chenyixun.py" />
-    <entry file="file://$PROJECT_DIR$/下载模板.py" />
-    <entry file="file://C:/lx/1.py" />
-    <entry file="file://C:/lx/2.py" />
-    <entry file="file://$PROJECT_DIR$/2.py" />
-    <entry file="file://$PROJECT_DIR$/xiazaimuban.py" />
-    <entry file="file://C:/myproject/myproject/settings.py" />
-    <entry file="file://C:/ProgramData/Anaconda3/Lib/json/decoder.py">
+    <entry file="file://$PROJECT_DIR$/proxies/spider_ip.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6726">
-          <caret line="356" column="0" lean-forward="false" selection-start-line="356" selection-start-column="0" selection-end-line="356" selection-end-column="0" />
+        <state relative-caret-position="285">
+          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+    <entry file="file://$PROJECT_DIR$/爬虫模板/RE.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="437">
+          <caret line="27" column="80" lean-forward="false" selection-start-line="27" selection-start-column="80" selection-end-line="27" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/base/updatedata.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/base/createdb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/musicspider.py" />
+    <entry file="file://$PROJECT_DIR$/meizitu1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://C:/interest/pillow.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="32" lean-forward="false" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ajaxjiepai.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/requests/adapters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="507" column="0" lean-forward="false" selection-start-line="507" selection-start-column="0" selection-end-line="507" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ipxrcomment.py" />
-    <entry file="file://$PROJECT_DIR$/999.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="747">
-          <caret line="59" column="15" lean-forward="true" selection-start-line="59" selection-start-column="15" selection-end-line="59" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/66.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/iphonexrdjc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="53" column="16" lean-forward="false" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/douban250daili.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1064">
-          <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/base/select.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="9" column="35" lean-forward="false" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/base/gengxin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="33" column="21" lean-forward="false" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/base/delete.py">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lx/1.py" />
+    <entry file="file://$PROJECT_DIR$/lx/2.py" />
+    <entry file="file://$PROJECT_DIR$/破解验证码/tuxing.py" />
+    <entry file="file://$PROJECT_DIR$/taobao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="36" column="70" lean-forward="false" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lx/yanzhengma.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/subprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19646">
+          <caret line="1034" column="0" lean-forward="false" selection-start-line="1034" selection-start-column="0" selection-end-line="1034" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxies/get_usefulip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="40" column="24" lean-forward="false" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxies/test_ip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="18" column="57" lean-forward="false" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itjuzi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gowhere.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2470">
+          <caret line="139" column="54" lean-forward="false" selection-start-line="139" selection-start-column="54" selection-end-line="139" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maoyan55.json" />
+    <entry file="file://$PROJECT_DIR$/maoyan.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="3" lean-forward="false" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.653.3970/HZ$D.653.3971/tesserocr-2.4.0/setup.py" />
+    <entry file="file://$PROJECT_DIR$/maoyan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="47" lean-forward="false" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tbselenium.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/破解验证码/dianchu.py" />
+    <entry file="file://$USER_HOME$/Desktop/chaojiying_Python/chaojiying.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="50" column="41" lean-forward="false" selection-start-line="50" selection-start-column="41" selection-end-line="50" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/tesseract/__init__.py" />
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/pytesseract/pytesseract.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianxi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1216">
+          <caret line="65" column="32" lean-forward="false" selection-start-line="65" selection-start-column="32" selection-end-line="65" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/asyncio/base_events.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="573" column="0" lean-forward="false" selection-start-line="573" selection-start-column="0" selection-end-line="573" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sfd.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1292">
+          <caret line="5" column="71" lean-forward="false" selection-start-line="5" selection-start-column="71" selection-end-line="5" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yimusanfendi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/asyncio/events.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2204">
+          <caret line="126" column="0" lean-forward="false" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanzhengma/tuxing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="30" column="32" lean-forward="false" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doubandjctxt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1501">
+          <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫模板/zhengzeceshi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫模板/replaceceshi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="30" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="33" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/huadongyzm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="31" column="24" lean-forward="false" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+        <state relative-caret-position="627">
+          <caret line="35" column="48" lean-forward="false" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doubandjc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1330">
+          <caret line="77" column="12" lean-forward="false" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/PIL/Image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48222">
+          <caret line="2542" column="0" lean-forward="false" selection-start-line="2542" selection-start-column="0" selection-end-line="2542" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yanzhengma/chaojiying.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="50" column="52" lean-forward="false" selection-start-line="50" selection-start-column="52" selection-end-line="50" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.967.1243/HZ$D.967.1245/CrackTouClick-master/crack.py" />
+    <entry file="file://$PROJECT_DIR$/douban250daili.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1007">
+          <caret line="57" column="15" lean-forward="false" selection-start-line="57" selection-start-column="15" selection-end-line="57" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dbdjcbase.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/base/lianxi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meizitu1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="1121">
+          <caret line="64" column="34" lean-forward="false" selection-start-line="64" selection-start-column="34" selection-end-line="64" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/musicspider.py">
+    <entry file="file://$PROJECT_DIR$/yibu.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="4" column="56" lean-forward="false" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
+        <state relative-caret-position="551">
+          <caret line="35" column="27" lean-forward="true" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/ProgramData/Anaconda3/Lib/re.py">
+    <entry file="file://$PROJECT_DIR$/yanzhengma/dianchu.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="564">
-          <caret line="287" column="0" lean-forward="false" selection-start-line="287" selection-start-column="0" selection-end-line="287" selection-end-column="0" />
+        <state relative-caret-position="-607">
+          <caret line="45" column="41" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="45" selection-end-column="41" />
+          <folding>
+            <element signature="e#111#141#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/iphonexrcomment.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.332.1424/HZ$D.332.1425/CrackGeetest-master/crack.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="31" column="16" lean-forward="false" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/novel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1102">
-          <caret line="60" column="27" lean-forward="false" selection-start-line="60" selection-start-column="27" selection-end-line="60" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xunhuan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/interest/wechat.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/interest/ipchi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="26" column="11" lean-forward="false" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/interest/creat_ip.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="26" column="18" lean-forward="false" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/interest/get_ip.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="29" column="45" lean-forward="false" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="45" />
+        <state relative-caret-position="4123">
+          <caret line="217" column="17" lean-forward="true" selection-start-line="217" selection-start-column="17" selection-end-line="217" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/qiushi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/12306-master/init/select_ticket_info.py" />
-    <entry file="file://C:/12306-master/config/ticketConf.py" />
-    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/yaml/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/yaml/loader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+        <state relative-caret-position="89">
+          <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
           <folding>
-            <element signature="e#61#82#0" expanded="true" />
+            <element signature="e#31#40#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/yaml/reader.py">
+    <entry file="file://$PROJECT_DIR$/yanzhengma/huadong.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫模板/requests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        <state relative-caret-position="76">
+          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
           <folding>
-            <element signature="e#81#96#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/zhongqq/run.py" />
-    <entry file="file://C:/12306-master/run.py" />
-    <entry file="file://C:/py2运行/zhongqq/run.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yunmeizitu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="33" column="33" lean-forward="false" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
-          <folding>
-            <element signature="e#369#384#0" expanded="true" />
-            <element signature="e#588#1457#0" expanded="false" />
-            <element signature="e#933#1423#0" expanded="false" />
-            <element signature="e#2528#2634#0" expanded="false" />
-            <element signature="e#2679#2859#0" expanded="false" />
-            <element signature="e#2908#3817#0" expanded="false" />
-            <element signature="e#3855#3982#0" expanded="false" />
-            <element signature="e#4025#4651#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫模板/firefox+selenium.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3097">
-          <caret line="167" column="30" lean-forward="false" selection-start-line="167" selection-start-column="30" selection-end-line="167" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meizitu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/ProgramData/Anaconda3/Lib/urllib/request.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6802">
-          <caret line="383" column="0" lean-forward="false" selection-start-line="383" selection-start-column="0" selection-end-line="383" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5555.py" />
-    <entry file="file://$PROJECT_DIR$/tianyancha.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="80" column="26" lean-forward="true" selection-start-line="80" selection-start-column="26" selection-end-line="80" selection-end-column="26" />
-          <folding>
-            <element signature="e#65#95#0" expanded="true" />
+            <element signature="e#219#249#0" expanded="true" />
           </folding>
         </state>
       </provider>
