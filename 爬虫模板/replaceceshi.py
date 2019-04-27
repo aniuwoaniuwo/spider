@@ -30,6 +30,7 @@ prime 2 day shipping，要小心2天是order之后的两个business day，<font 
 保证马上有地方睡觉。床和床架，memory foam床垫 + 简易床架，不觉得比从前2000刀的床差多少<font class="jammer"></font><br />
 <font class="jammer"></font><br />
 '''
+#被替换的字符串
 pattern='<.*?>'
 comtent=re.sub(pattern,'',str)
 print(comtent)

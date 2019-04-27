@@ -91,9 +91,9 @@ class tb(object):
         with open('tb.csv','a',encoding='utf-8') as f:
             writer=csv.writer(f)
             if self.k==1:
-                writer.writerow('name','price','renshu')
+                writer.writerow(['name','price','renshu'])
                 self.k+=1
-            writer.writerow(item[2],item[0],item[1])
+            writer.writerow([item[2],item[0],item[1]])
 
 if __name__=='__main__':
     run=tb()

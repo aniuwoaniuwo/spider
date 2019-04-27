@@ -61,7 +61,6 @@ class tongcheng(object):
                 data.append(jiage)
                 for j in range(0,len(data)):
                     self.sheet.write(m+1,j,data[j])
-
                 m=m+1
                 print(m)
 

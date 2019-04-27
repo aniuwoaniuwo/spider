@@ -25,6 +25,7 @@ def save(comtent):
         f.write(json.dumps(comtent,indent=2,ensure_ascii=False))
     with open('maoyan.txt','a',encoding='utf-8') as f:
         f.write(str(comtent))
+
 if __name__=='__main__':
     urls=['https://maoyan.com/board/4?offset={}'.format(i*10) for i in range(10)]
     for url in urls:

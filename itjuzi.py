@@ -1,11 +1,7 @@
 #-*-coding:utf-8-*-
-#-*-coding:utf-8-*-
 import time
 from selenium import webdriver
-import urllib.request
 from lxml import etree
-
-import re
 
 user="18813295794"
 password="18898604973it"
@@ -19,7 +15,6 @@ driver.find_element_by_xpath('//*[@id="login_btn"]').click()
 time.sleep(10)#给个两秒的延迟
 selector = etree.HTML(driver.page_source)
 for i in range(1):
-
     items = selector.xpath('/html/body/div[4]/div[2]/ul/li[2]/a/text()')
     #selector = driver.page_source  # 获取网页文本
     #pattern = re.compile(r'<span class="title"><a href=.*? target="_blank">(.*?)</a>.*?</span>', re.S)

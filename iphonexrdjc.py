@@ -52,7 +52,6 @@ def save(res,k):
 if __name__=='__main__':
     start=time.time()
     #lock=Lock()
-
     for i in range(1,5):
         print('正在爬取第{}页的评论'.format(i))
         p=Process(target=spider,args=(i,))

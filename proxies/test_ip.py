@@ -16,7 +16,7 @@ if __name__ == '__main__':
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 SE 2.X MetaSr 1.0'
     }
-    ip_list = ['116.209.59.188:9999', '61.161.46.179:8118', '183.6.130.6:8118']
+    ip_list = ['110.52.235.184:9999']
     proxies = get_random_ip(ip_list)
     print(proxies)
     headers = {

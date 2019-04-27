@@ -79,4 +79,3 @@ if __name__=='__main__':
         pass
     else:
         db.close()
-#https://rate.taobao.com/feedRateList.htm?auctionNumId=580000998253&userNumId=2529466216&currentPageNum=1&_ksTS=1545448307516_2832&callback=jsonp_tbcrate_reviews_list
