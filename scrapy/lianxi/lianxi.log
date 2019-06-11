@@ -1,2 +1,0 @@
-2019-04-20 10:19:57 [scrapy.utils.log] INFO: Scrapy 1.5.1 started (bot: lianxi)
-2019-04-20 10:19:57 [scrapy.utils.log] INFO: Versions: lxml 4.1.0.0, libxml2 2.9.4, cssselect 1.0.3, parsel 1.5.0, w3lib 1.19.0, Twisted 18.7.0, Python 3.6.3 |Anaconda, Inc.| (default, Oct 15 2017, 03:27:45) [MSC v.1900 64 bit (AMD64)], pyOpenSSL 17.2.0 (OpenSSL 1.0.2l  25 May 2017), cryptography 2.0.3, Platform Windows-7-6.1.7601-SP1

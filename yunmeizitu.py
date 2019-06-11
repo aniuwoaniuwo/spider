@@ -63,6 +63,7 @@ class Spider(object):
 
     def _base64_decode(self,data):
         '''bash64解码，要注意原字符串长度报错问题'''
+        #这里判断是否是4的倍数，差多少个是4的倍数就加上多少个“=”，这个是base64加密的规则
         missing_padding = 4 - len(data) % 4
         if missing_padding:
             data += '=' * missing_padding
@@ -78,8 +79,10 @@ class Spider(object):
         l = m[0:q]
         c = o + self._md5(o + l)
         m = m[q:]
+        #base64解码
         k = self._base64_decode(m)
         url = ''
+        #utf-8解码，可读性高
         url = k.decode('utf-8', errors='ignore')
         url = '//w' + url
         #h = list(range(256))

@@ -29,7 +29,7 @@ TEST_URL = 'http://www.baidu.com'
 
 # API配置
 API_HOST = '0.0.0.0'
-API_PORT = 5555
+API_PORT = 6666
 
 # 开关
 TESTER_ENABLED = True

@@ -1,0 +1,10 @@
+主要参考了崔庆才的ip池，里面自己加了一些拓展，和程序的说明
+api：flask接口
+crawler：爬取各类代理网站并且解析网页的主程序
+db：存储模块，redis数据库存储
+getter：存储模块启动爬取的模块
+importer：自己加入代理的模块
+scheduler：调度器
+setting：基础参数设置
+tester：测试模块，异步测试
+utils：抓取网页返回html的模块，结合crawler，getter一起工作

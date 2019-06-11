@@ -23,7 +23,8 @@ class Spider(object):
         self.k=1
         self.n=1
         self.classifications = ['手机', '数码', '租房', '服装', '居家', '美妆', '运动', '家电', '玩具乐器']
-
+        #第几页
+        self.page=1
     def get_ip(self):
         try:
             response = requests.get('http://localhost:5555/random')
@@ -62,12 +63,13 @@ class Spider(object):
             driver.get(url)
 
             time.sleep(5)#给个五秒延迟,必须先定义，不能在函数中直接用
-            for i in range(4,13):#九个类别
+            for i in range(10,13):#九个类别
                 self.n = i - 4
                 submit=wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR,'body > div.main > div.tabbar-wrap > div:nth-of-type({}) > p'.format(i))))#直到此元素可以点击
                 print('开始爬取:{}'.format(self.classifications[self.n]))
                 submit.click()#点击这个类别
-                for j in range(50):
+                for j in range(100):
+                    self.page=j+1
                     for g in range(1, 2):
                         height = 20000 * g  # 每次滑动20000像素
                         strWord = "window.scrollBy(0," + str(height) + ")"
@@ -81,8 +83,9 @@ class Spider(object):
                         driver.find_element_by_xpath('//*[@id="tyc_banner_close"]').click()
                     else:
                         print('无弹窗')
-
+                    #点击下一页，延时5秒
                     driver.find_element_by_css_selector('body > div.main > div.pagination > div > button.btn-next > i').click()
+
                     time.sleep(5)
         except Exception as e:
             print(e)
@@ -107,6 +110,7 @@ class Spider(object):
             items = re.findall(pattern, response)
             for item in items:
                 item='http:'+item
+                print('*****',self.classifications[self.n],'第{}页'.format(self.page),'*****')
                 print(item)
                 yield item
         else:
@@ -134,7 +138,13 @@ class Spider(object):
                 for item in self.jiexi(response):
                     self.csv(item)
         end = time.time()
-        print('总共花费的时间：', (end - start))
+        data = end-start
+        h = data // 3600
+        yushu = data % 3600
+        m = yushu // 60
+        yushu = yushu % 60
+        s = yushu
+        print('总共花费的时间：{}时{}分{}秒'.format(h, m, s))
 
 if __name__=='__main__':
     f=Spider()

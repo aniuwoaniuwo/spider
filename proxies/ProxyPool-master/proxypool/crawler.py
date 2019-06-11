@@ -1,7 +1,13 @@
-import json
+#这是ipchi的获取模块，从几个网站获取代理ip，但是ip的可用程度并不是很高，10%左右
+#可以自动拓展爬取的网站，比如增加西刺代理的爬取
+#一般都是爬取前面三页的代理
+#这里爬取了代理66、ip3366、快代理、西刺代理、ip海、data5u等网站的网址，但是代理66,ip海多次爬取容易被封爬取不到,dada5u服务器关闭了，
 import re
-from .utils import get_page
+
 from pyquery import PyQuery as pq
+
+from .utils import get_page
+
 
 
 class ProxyMetaclass(type):
@@ -15,7 +21,7 @@ class ProxyMetaclass(type):
         attrs['__CrawlFuncCount__'] = count
         return type.__new__(cls, name, bases, attrs)
 
-
+#获取的类
 class Crawler(object, metaclass=ProxyMetaclass):
     def get_proxies(self, callback):
         proxies = []
@@ -44,7 +50,7 @@ class Crawler(object, metaclass=ProxyMetaclass):
                     yield ':'.join([ip, port])
 
     def crawl_ip3366(self):
-        for page in range(1, 4):
+        for page in range(1, 5):
             start_url = 'http://www.ip3366.net/free/?stype=1&page={}'.format(page)
             html = get_page(start_url)
             ip_address = re.compile('<tr>\s*<td>(.*?)</td>\s*<td>(.*?)</td>')
@@ -55,7 +61,7 @@ class Crawler(object, metaclass=ProxyMetaclass):
                 yield result.replace(' ', '')
     
     def crawl_kuaidaili(self):
-        for i in range(1, 4):
+        for i in range(1, 5):
             start_url = 'http://www.kuaidaili.com/free/inha/{}/'.format(i)
             html = get_page(start_url)
             if html:
@@ -90,7 +96,7 @@ class Crawler(object, metaclass=ProxyMetaclass):
                         address_port = address+':'+port
                         yield address_port.replace(' ','')
     
-    def crawl_ip3366(self):
+    '''def crawl_ip3366(self):
         for i in range(1, 4):
             start_url = 'http://www.ip3366.net/?stype=1&page={}'.format(i)
             html = get_page(start_url)
@@ -104,7 +110,7 @@ class Crawler(object, metaclass=ProxyMetaclass):
                     re_port = find_port.findall(trs[s])
                     for address,port in zip(re_ip_address, re_port):
                         address_port = address+':'+port
-                        yield address_port.replace(' ','')
+                        yield address_port.replace(' ','')'''
     
     def crawl_iphai(self):
         start_url = 'http://www.iphai.com/'

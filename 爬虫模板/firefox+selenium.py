@@ -261,7 +261,13 @@ class Spider(object):
                     self.txt(item)
             time.sleep(4)
         end = time.time()
-        print('总共花费的时间：', (end - start))
+        data = end - start
+        h = data // 3600
+        yushu = data % 3600
+        m = yushu // 60
+        yushu = yushu % 60
+        s = yushu
+        print('总共花费的时间：{}时{}分{}秒'.format(h, m, s))
 
 if __name__=='__main__':
     f=Spider()

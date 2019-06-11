@@ -1,3 +1,4 @@
+#调度器，之前的几个木块都由这里调度
 import time
 from multiprocessing import Process
 from proxypool.api import app
@@ -16,6 +17,7 @@ class Scheduler():
         while True:
             print('测试器开始运行')
             tester.run()
+            #测试完，20秒后再测试一次
             time.sleep(cycle)
     
     def schedule_getter(self, cycle=GETTER_CYCLE):
@@ -26,6 +28,7 @@ class Scheduler():
         while True:
             print('开始抓取代理')
             getter.run()
+            #抓取完，300秒后再继续获取一次
             time.sleep(cycle)
     
     def schedule_api(self):
@@ -36,7 +39,8 @@ class Scheduler():
     
     def run(self):
         print('代理池开始运行')
-        
+        #设置里面一直是True，所以一直循环
+        #3g个子进程基本并行运行，测试、抓取、flask接口程序运行互不影响
         if TESTER_ENABLED:
             tester_process = Process(target=self.schedule_tester)
             tester_process.start()

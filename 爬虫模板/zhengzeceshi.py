@@ -3,104 +3,54 @@
 import re
 
 HTML='''
-**************客户开始***************
-日期:2019-03-05 ATM:81210104
-20:16:50 ==>6231891100112871483
-20:17:00 流水号:145976 IC验证
-20:17:01 ATMP 返回:<00> HS:
-
-20:17:05 流水号:145977 开户检查
-20:17:06 ATMP 返回:<00> HS:
-20:17:09 流水号:145978 可疑查询
-20:17:10 ATMP 返回:<00> HS:
-20:17:13 流水号:145979 取款 2000.00
-20:17:15 ATMP 返回:<00> HS:
-点钞: [CNY100:20]
-LEVEL4:
-RE07664079  XP72148170  YF21091488
-R92X092353  TP82620025  ET35055516
-
-SW70653165  ZK03516144  W67R824662
-P8E2137590  TF86260438  BD47887526
-XC38726543  QY29225727  QY29225769
-QY29225771  QY29225772  QY29225773
-QY29225774  QY29225775
-20:17:30 客户取走钞票.
-
-20:17:43 流水号:145980 可疑查询
-20:17:44 ATMP 返回:<00> HS:
-20:17:49 流水号:145981 取款 500.00
-20:17:52 ATMP 返回:<00> HS:
-点钞: [CNY100:5]
-LEVEL4:
-QY29225778  MA04832862  P93T717818
-B55R398800  A?81343412
-20:18:05 客户取走钞票.
-
-20:18:12 客户取消
-20:18:12 <==6231891100112871483
-**************客户结束***************
-计数:0021-0021-1800-0507-0000
-**************客户开始***************
-日期:2019-03-05 ATM:81210104
-20:36:04 ==>6231891100101731771
-20:36:12 流水号:145982 IC验证
-20:36:14 ATMP 返回:<00> HS:
-20:36:17 流水号:145983 开户检查
-
-20:36:18 ATMP 返回:<00> HS:
-20:36:21 流水号:145984 可疑查询
-
-20:36:22 ATMP 返回:<00> HS:
-20:36:25 流水号:145985 取款 1000.00
-20:36:27 ATMP 返回:<00> HS:
-点钞: [CNY100:10]
-LEVEL4:
-IQ25945050  NA69860844  NA69860831
-NA69860832  NA69860833  NA69860834
-NA69860835  NA69860836  NA69860837
-NA69860838
-
-20:36:41 客户取走钞票.
-
-20:36:46 客户取消
-20:36:46 <==6231891100101731771
-**************客户结束***************
-计数:0021-0021-1790-0507-0000
-**************客户开始***************
-日期:2019-03-05 ATM:81210104
-20:46:47 ==>6228910100114347311
-20:46:54 流水号:145986 IC验证
-20:46:55 ATMP 返回:<00> HS:
-20:46:56 流水号:145987 开户检查
-
-20:46:57 ATMP 返回:<00> HS:
-20:47:01 流水号:145988 余额查询
-20:47:02 ATMP 返回:<55> HS:
-
-20:47:09 流水号:145989 余额查询
-20:47:10 ATMP 返回:<00> HS:
-20:47:20 流水号:145990 户名查询
-20:47:21 ATMP 返回:<00> HS:
-20:47:24 流水号:145991 可疑查询
-20:47:25 ATMP 返回:<00> HS:
-20:47:26 TRNS:145992 存款
-接收: [CNY100:12]
-确认金额:1200.00
-
-20:47:50 ATMP 返回:<00> HS:
-
-20:48:04 收钞成功.
-LEVEL4:
-W73S262924  DF56872218  BU00586937
-X52F314092  Q24L484894  SG48514213
-AT?3159'''
+<div class="layout grid-s730m0">
+        <div class="col-main">
+            <div class="main-wrap">
+                <div class="property"  id="J_Property">
+    <h1 class="title">华为荣耀4&#039;x顶级配置可玩大型游戏送16g储存卡送刀模 魔方</h1>
+    <ul class="price-info">
+        <li class="price-block">
+            <span class="para">转&nbsp;&nbsp;卖&nbsp;&nbsp;价：</span>
+            <span class="price big"><b>&yen;</b><em>900.00</em></span>
+							    				<span class="bargain-tip">
+                        <i class="i-tip"></i>该商品拒绝讲价！
+                    </span>
+    						        </li>
+		    </ul>
+    <ul class="idle-info" data-spm="2007.1000338.3">
+		<li>
+    		 <span class="para">成　　色：</span>
+             <em>全新</em>
+        </li>
+        <li>
+            <span class="para">所&nbsp;&nbsp;在&nbsp;&nbsp;地：</span>
+            <em>黑龙江齐齐哈尔 建华区</em>
+        </li>
+					<li class="contact">
+                <span class="para">联系方式：</span>
+    			    							<div style="display:none">
+                    <span class="J_WangWang" data-nick="t_1483577804985_0679" data-icon="large"></span>
+                </div>
+            </li>
+            <li class="trade-terms" id="J_TradeWrap">
+                <span class="para">交易方式：</span>
+    			    				<a href="#"><span data-term="0" class="J_Term term">在线交易</em></em></span><i></i></a>
+				    <li id="J_Freight" class="freight">
+                        <a id="J_Region" class="region" href="#" data-default="">
+        					至 <em id="J_RegionName"></em><i></i>
+                        </a>
+                        <span id="J_Carriage" class="fee" data-url="//adpmanager.taobao.com/detail/delivery_detail.do?itemId=592838761902">运费：<em class="rmb">&yen;</em><span id="J_Fee">加载中...</span></span>
+                    </li>
+    			            </li>
+		    </ul>
+	    	<div class="buy-now" data-spm="2007.1000338.4">
+    <a id="J_BuyNow" data-url="//buy.2.taobao.com/buy/buy.htm?from=itemDetail&amp;x_id=&amp;id=592838761902&amp;item_id=592838761902" class="btn" href="#">立刻购买</a>'''
 
 pattern = re.compile(
-            '<dd.*?<a',
+            '<div.*?main-wrap.*?title.*?>(.*?)</h1>.*?price big.*?<em>(.*?)</em>.*?para.*?<em>(.*?)</em>.*?para.*?<em>(.*?)</em>',
             re.S)
 pattern1=re.compile('客户开始\*{15}(.*?)\*{14}客户结束',re.S)
-items = re.findall(pattern1,HTML)
+items = re.findall(pattern,HTML)
 print(items)
-for item in items:
+for item in items[0]:
     print(item)

@@ -49,6 +49,7 @@ class Spider(object):
             response=requests.get(url,headers=self.headers,proxies=self.proxies)
             if response.status_code==200:
                 self.cu = 0
+                print(response.text)
                 return response.text
             else:
                 if self.cu<4:
@@ -135,7 +136,7 @@ if __name__=='__main__':
     if len(f.rest)>0:
         print('总共还有{}个网址没有成功访问，现在继续。'.format(len(f.rest)))
         print(f.rest)
-        for url1 in f.rest:
-            f.main(url1)
+        for j in range(len(f.rest)):
+            f.main(f.rest[j],j)
     end = time.time()
     print('总共花费的时间：', (end - start))

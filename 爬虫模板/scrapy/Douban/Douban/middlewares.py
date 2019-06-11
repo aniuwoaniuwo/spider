@@ -7,7 +7,7 @@
 
 
 #设置请求头，User-Agent池
-#两个中间件都要requests，所以两个都可以设置，但是可能会覆盖，所以一般只设置下载中间件
+#两个中间件都有requests，所以两个都可以设置，但是可能会覆盖，所以一般只设置下载中间件
 #下载中间件，从位置就可以看出其作用，请求前修改request，response传给engine前修改response
 import random
 class DoubanUserAgentMiddlewares(object):

@@ -140,16 +140,147 @@ print(os.getcwd())#获取当前文件路径
 print(os.path.abspath('eason.py'))#获取绝对路径，包括文件名
 print(os.path.abspath(''))
 print(os.path.dirname('eason.py'))'''
-import csv
-with open('xianyu.csv','r',encoding='utf-8') as f:
-    reader=csv.reader(f)
-    for row in reader:
-        if row:
-            print(row[0])
+# import csv
+# with open('xianyu.csv','r',encoding='utf-8') as f:
+#     reader=list(csv.reader(f))
+#     print(reader[0])
+#     # for row in reader:
+#     #     if row:
+#     #         print(row[0])
+#
+#     # for i in range(20):
+#     #     print(reader[i][0],reader[i][1])
+'''data=3670
+h=data//3600
+yushu=data%3600
+m=yushu//60
+yushu=yushu%60
+s=yushu
+print('用时：{}时{}分{}秒'.format(h,m,s))'''
+# print(b'\xe4\xb8\xad\xe6\x96\x87'.decode('unicode_escape'))
+# import requests
+# print(requests.get('https://2.taobao.com/').text)
+# from multiprocessing import Pool
+# class Spider(object):
+#     def __init__(self):
+#         self.num=0
+#     def main(self,num):
+#         num+=1
+#         print(num)
+#     def make(self):
+#         pool = Pool(processes=4)
+#         num=0
+#         for i in range(60):
+#             print(88)
+#             pool.apply_async(f.main,(i,))
+#             print(99)
+#         pool.close()  # 关闭进程池，不再接受新的进程
+#         pool.join()  # 主进程阻塞等待子进程的退出
+# if __name__=='__main__':
+#     f=Spider()
+#     f.make()
+# import time
+import re
+import asyncio
+import aiohttp
+import random
+import requests
+import os
+import itchat
+import pymysql
+import xlrd, xlwt, json, csv
+from lxml import etree
 
-
-
-
-
-
-
+#
+# async def creat_joke(url, res_list,num):
+#     print("开始爬取joke")
+#     num+=1
+#     print(num)
+#     user_agent = 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.104 Safari/537.36 Core/1.53.4295.400'
+#     headers = {'User-Agent': user_agent}
+#     async with aiohttp.ClientSession() as session:
+#         async with session.get(url, headers=headers) as res:
+#             assert res.status == 200
+#             num+=1
+#             print(num)
+#             res_list.append(await res.text())
+# def main(num):
+#     url_list = ['https://music.douban.com/top250?start={}'.format(str(5*k)) for k in range(1, 20)]  # format放在引号外面
+#     loop = asyncio.get_event_loop()
+#     res_list = []
+#     tasks = [creat_joke(host, res_list,num) for host in url_list]
+#     loop.run_until_complete(asyncio.wait(tasks))
+#
+#     print("joke爬取完成")
+# if __name__ == '__main__':
+#     k = 1
+#     num=0
+#     main(num)
+# import requests
+# print(len('ece8ozWUT/VGGxW1hlbITPgE0XMZ9Y/yWpCi5Rz5F/h2uSWgxwV6IQl6DAeuFiT9mH2ep3CETLlpwyD+kU0YHpsHPLnY6LMHyIQo6sTu9/UdY5k+Vjt3EQ'))
+# proxy_url='http://localhost:5555/random'
+# y=0
+# n=0
+# def get_ip(url):
+#     try:
+#         response=requests.get(url)
+#         if response.status_code==200:
+#             return response.text
+#         else:
+#             return None
+#     except:
+#         return None
+# while 1:
+#     try:
+#         proxy_ip = get_ip(proxy_url)
+#         print(proxy_ip)
+#         headers = {
+#             'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 SE 2.X MetaSr 1.0'
+#         }
+#         proxies = {'http': 'http://' + proxy_ip, 'https': 'https://' + proxy_ip, }
+#         res=requests.get('http://2.taobao.com/item.htm?id=592843024804',headers=headers,proxies=proxies)
+#         print(res.text)
+#         if res.status_code==200:
+#             y += 1
+#             print('有效的ip数：{}'.format(y), '\n', '无效的ip数：{}'.format(n))
+#             print('这是有效的ip:',proxies)
+#         else:
+#             n += 1
+#             print('有效的ip数：{}'.format(y), '\n', '无效的ip数：{}'.format(n))
+#     except Exception as e:
+#         n += 1
+#         print('有效的ip数：{}'.format(y), '\n', '无效的ip数：{}'.format(n))
+#         print('继续测试')
+# #         print(e)
+# import requests
+# while 1:
+#     response=requests.get('http://weixin.sogou.com/weixin?query=%E6%AC%A7%E5%86%A0&_sug_type_=&sut=6545&lkt=1%2C1553941706038%2C1553941706038&s_from=input&_sug_=y&type=2&sst0=1553941706143&page=1&ie=utf8&w=01019900&dr=1')
+#     print(response.status_code)
+# import requests
+# cookies='__jsluid=3aaad7d16be6fb73e66bf6dde66a85ff; Hm_lvt_1761fabf3c988e7f04bec51acd4073f4=1559041585; Hm_lpvt_1761fabf3c988e7f04bec51acd4073f4=1559045128; __jsl_clearance=1559045146.02|0|rejf%2Fa%2FAL0i46QE0lguPr46K4O0%3D'
+# headers={'Cookies':cookies,'Upgrade-Insecure-Requests':'1','Referer':'http://www.66ip.cn/1.html','Accept':'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+# ,'Accept-Encoding':'gzip, deflate, sdch',
+# 'Accept-Language':'zh-CN,zh;q=0.8','Host':'www.66ip.cn','Connection':'keep-alive','User-Agent':'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Mobile Safari/537.36'}
+# response=requests.get('http://www.66ip.cn/1.html',headers=headers)
+# print(response.text,response.status_code)
+# response=requests.get('http://localhost:6666/test').text
+# import re
+# pattern=re.compile('ip:(.*?)<br/>score:(.*)',re.S)
+# items=re.findall(pattern,response)
+# print(items,'\n',items[0][0],items[0][1],len(items[0][0]))
+import requests
+base_headers = {
+    'User-Agent': 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Mobile Safari/537.36',
+    'Accept-Encoding': 'gzip, deflate, sdch',
+    'Accept-Language': 'en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7'
+}
+num=0
+while 1:
+    # print(requests.get('https://m.58.com/bj/diannao/37912172880392x.shtml',headers=base_headers).stat)
+    res=requests.get('https://m.58.com/bj/diannao/37912172880392x.shtml',headers=base_headers)
+    print(res.text)
+    if res.status_code==200:
+        num+=1
+        print(num)
+    else:
+        print('false')

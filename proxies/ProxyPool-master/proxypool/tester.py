@@ -1,3 +1,6 @@
+#测试模块，异步测试
+#很奇怪，验证成功的ip被置为100，异步同时不成功减1，但是最后选的是后者，也就是整个置100不成功，找到原因了，
+#因为redis更新后，add（max函数里面）这个命令不一样了，所以在执行add（max函数里面）命令的时候是报错了，于是到了except部分执行decrease函数进行减1操作
 import asyncio
 import aiohttp
 import time
@@ -27,7 +30,9 @@ class Tester(object):
                     proxy = proxy.decode('utf-8')
                 real_proxy = 'http://' + proxy
                 print('正在测试', proxy)
+                #这里用到了通用的网址测试，百度网站，可以换成目标爬取的网址
                 async with session.get(TEST_URL, proxy=real_proxy, timeout=15, allow_redirects=False) as response:
+                    #判断响应码是否在200-302之间，是则代理ip有效
                     if response.status in VALID_STATUS_CODES:
                         self.redis.max(proxy)
                         print('代理可用', proxy)

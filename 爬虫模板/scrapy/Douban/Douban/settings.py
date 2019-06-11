@@ -65,7 +65,7 @@ LOG_LEVEL="ERROR"
 #   'Accept-Language': 'en',
 #}
 
-#爬虫中间件，默认不开启，需要开启
+#爬虫中间件，默认不开启，需要手动开启
 #spider通过他传requests，item到引擎，或者引擎传response给spider
 # Enable or disable spider middlewares
 # See https://doc.scrapy.org/en/latest/topics/spider-middleware.html
@@ -117,3 +117,7 @@ ITEM_PIPELINES = {
 #HTTPCACHE_DIR = 'httpcache'
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
+
+#分布式爬虫设置，需要手动配置,当然还有其他的设置，再增加
+# SCHEDULER="scrapy_redis.scheduler.Scheduler"
+# DUPEFILTER_CLASS="scrapy_redis.dupefilter.RFPDupeFilter"

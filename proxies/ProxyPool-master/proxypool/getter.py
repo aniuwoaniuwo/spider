@@ -1,3 +1,4 @@
+#这是爬取模块的入口，给了最大的爬取量是50000，可以随意设置
 from proxypool.tester import Tester
 from proxypool.db import RedisClient
 from proxypool.crawler import Crawler
