@@ -28,7 +28,7 @@ class Spider(object):
 
     def get_ip(self):
         try:
-            response = requests.get('http://localhost:5555/random')
+            response = requests.get('http://localhost:6666/random')
             if response.status_code == 200:
                 return response.text
             else:
@@ -37,61 +37,84 @@ class Spider(object):
             return None
 
     def spider(self,url, time=time):
-        m=0
-        #f=xlrd.open_workbook('tianyancha.xlsx')
-        ip='61.161.46.179'
-        port=8118
-        proxies = self.get_ip()
-        if proxies:
-            items = re.findall('(.*?):(.*)', proxies)
-            ip=items[0][0]
-            port=items[0][1]
-        firefox_options = webdriver.FirefoxOptions()
-        ff_profile = webdriver.FirefoxProfile()
-        ff_profile.set_preference("network.proxy.type", 1)
-        ff_profile.set_preference("network.proxy.http", ip)
-        ff_profile.set_preference("network.proxy.http_port", int(port))
-        ff_profile.set_preference("network.proxy.ssl", ip)
-        ff_profile.set_preference("network.proxy.ssl_port", int(port))
-        ff_profile.set_preference("network.proxy.ftp", ip)
-        ff_profile.set_preference("network.proxy.ftp_port", int(port))
-        ff_profile.set_preference("general.useragent.override",
-                                  "Mozilla/5.0 (Windows NT 6.1; Win64; x64)AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36")
-        ff_profile.update_preferences()
-        driver = webdriver.Firefox(firefox_options=firefox_options, firefox_profile=ff_profile)
-        wait=WebDriverWait(driver,15)
-        try:
-            driver.maximize_window()#窗口最大
-            driver.get(url)#天眼查制造业企业的信息
-            time.sleep(5)#给个五秒延迟,必须先定义，不能在函数中直接用
-            submit=wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR,'#searchHotelPanel > div.b_tool.clr_after > div.pager.js_pager > div > ul > li.item.next > a > span:nth-of-type(1)')))#直到此元素可以点击
-            for i in range(5):
-                '''for j in range(1, 3):
-                    height = 20000 * j  # 每次滑动20000像素
-                    strWord = "window.scrollBy(0," + str(height) + ")"
-                    driver.execute_script(strWord)
-                    time.sleep(2)'''
-                selector=driver.page_source
-                yield selector
-                e=self.exit(driver,'//*[@id="tyc_banner_close"]')
-                if e==True:
-                    print('有小弹窗')
-                    driver.find_element_by_xpath('//*[@id="tyc_banner_close"]').click()
-                else:
-                    print('无弹窗')
-                #s=driver.find_element_by_xpath('//*[@id="tyc_banner_close"]')
+        #循环指数
+        num = 0
+        while 1:
 
-                '''if s!='':#判断元素是否存在
-                    print('有小弹窗')
-                    s.click()#点击下一页
-                else:
-                    print('无弹窗')'''
-                time.sleep(2)
-                driver.find_element_by_css_selector('html body.font-bb49248c div#web-content.mt74 div.container.pt25 div.container-left div.search-block div.result-footer div ul.pagination li a.num.-next').click()
-                time.sleep(5)
-        except Exception as e:
-            print(e)
+            #f=xlrd.open_workbook('tianyancha.xlsx')
+            ip='61.161.46.179'
+            port=8118
+            proxies = self.get_ip()
+            if proxies:
+                items = re.findall('(.*?):(.*)', proxies)
+                ip=items[0][0]
+                port=items[0][1]
+            firefox_options = webdriver.FirefoxOptions()
+            ff_profile = webdriver.FirefoxProfile()
+            ff_profile.set_preference("network.proxy.type", 1)
+            ff_profile.set_preference("network.proxy.http", ip)
+            ff_profile.set_preference("network.proxy.http_port", int(port))
+            ff_profile.set_preference("network.proxy.ssl", ip)
+            ff_profile.set_preference("network.proxy.ssl_port", int(port))
+            ff_profile.set_preference("network.proxy.ftp", ip)
+            ff_profile.set_preference("network.proxy.ftp_port", int(port))
+            ff_profile.set_preference("general.useragent.override",
+                                      "Mozilla/5.0 (Windows NT 6.1; Win64; x64)AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36")
+            ff_profile.update_preferences()
+            #这里是打开浏览器
+            # driver = webdriver.Firefox(firefox_options=firefox_options, firefox_profile=ff_profile)
+            driver = webdriver.Firefox()
+            wait=WebDriverWait(driver,15)
+            try:
+                driver.maximize_window()#窗口最大
+                driver.get(url)#天眼查制造业企业的信息
+                time.sleep(5)#给个五秒延迟,必须先定义，不能在函数中直接用
+                submit=wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR,'#searchHotelPanel > div.b_tool.clr_after > div.pager.js_pager > div > ul > li.item.next > a > span:nth-of-type(1)')))#直到此元素可以点击
+                for i in range(5):
+                    '''for j in range(1, 3):
+                        height = 20000 * j  # 每次滑动20000像素
+                        strWord = "window.scrollBy(0," + str(height) + ")"
+                        driver.execute_script(strWord)
+                        time.sleep(2)'''
+                    selector=driver.page_source
+                    yield selector
+                    #创建新窗口/选项卡
+                    # for i in range(10):
+                          #开启选项卡
+                    #     driver.execute_script('window.open()')
+                    #     切换到此窗口
+                    #     driver.switch_to_window(driver.window_handles[i + 1])
+                    #     访问新网址
+                    #     driver.get('http://www.douban.com/')
+                    #     time.sleep(1)
+                    e=self.exit(driver,'//*[@id="tyc_banner_close"]')
+                    if e==True:
+                        print('有小弹窗')
+                        driver.find_element_by_xpath('//*[@id="tyc_banner_close"]').click()
+                    else:
+                        print('无弹窗')
+                    #s=driver.find_element_by_xpath('//*[@id="tyc_banner_close"]')
 
+                    '''if s!='':#判断元素是否存在
+                        print('有小弹窗')
+                        s.click()#点击下一页
+                    else:
+                        print('无弹窗')'''
+                    time.sleep(2)
+                    driver.find_element_by_css_selector('html body.font-bb49248c div#web-content.mt74 div.container.pt25 div.container-left div.search-block div.result-footer div ul.pagination li a.num.-next').click()
+                    time.sleep(5)
+                num += 1
+                driver.close()
+
+            except Exception as e:
+                print('出错了：',e)
+                driver.close()
+            #退出while循环,判断num这个循环指数，如果因为出错而运行到这里，就要继续循环，num并没有+1
+            #如果是正常爬取完了，正常需要退出，num+1，可以退出这个循环
+            if num==1:
+                print('正常退出浏览器')
+                break
+            print('非正常退出浏览器，继续访问')
     def exit(self,driver,css):#判断是否有小弹窗
         try:
             driver.find_element_by_xpath(css)
@@ -135,6 +158,7 @@ class Spider(object):
         ff_profile.set_preference("general.useragent.override",
                                   "Mozilla/5.0 (Windows NT 6.1; Win64; x64)AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36")
         ff_profile.update_preferences()
+        #打开浏览器
         driver = webdriver.Firefox(firefox_options=firefox_options, firefox_profile=ff_profile)
         try:
             # driver=webdriver.Firefox()#获取驱动
@@ -248,27 +272,32 @@ class Spider(object):
                 print('失败！')
         pass
 
-    def main(self):
+    def main(self,url):
         '''
         进程启动入口
         :return:
         '''
-        start = time.time()
-        urls = ['https://music.douban.com/top250?start={}'.format(i * 25) for i in range(1, 20)]
-        for url in urls:
-            for response in self.spider(url):
-                for item in self.jiexi(response):
-                    self.txt(item)
-            time.sleep(4)
-        end = time.time()
-        data = end - start
-        h = data // 3600
-        yushu = data % 3600
-        m = yushu // 60
-        yushu = yushu % 60
-        s = yushu
-        print('总共花费的时间：{}时{}分{}秒'.format(h, m, s))
+        # urls = ['https://music.douban.com/top250?start={}'.format(i * 25) for i in range(1, 20)]
+        for response in self.spider(url):
+            for item in self.jiexi(response):
+                self.txt(item)
+
+
 
 if __name__=='__main__':
-    f=Spider()
-    f.main()
+    start = time.time()
+    f = Spider()
+    urls = ['https://music.douban.com/top250?start={}'.format(i * 25) for i in range(1, 3)]
+    pool = Pool(processes=4)
+    for i in range(len(urls)):
+        pool.apply_async(f.main, (urls[i],))
+    pool.close()  # 关闭进程池，不再接受新的进程
+    pool.join()  # 主进程阻塞等待子进程的退出
+    end = time.time()
+    data = end - start
+    h = data // 3600
+    yushu = data % 3600
+    m = yushu // 60
+    yushu = yushu % 60
+    s = yushu
+    print('总共花费的时间：{}时{}分{}秒'.format(h, m, s))

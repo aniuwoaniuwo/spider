@@ -43,7 +43,7 @@ def ceshi(y,n,i,re,iplist):
         while num<4:
             num+=1
             try:
-                res=requests.get('https://movie.douban.com/subject/26584183/?tag=热门&from=gaia_video',headers=headers,proxies=proxies,timeout=3)
+                res=requests.get('https://bj.58.com/diannao/?zz=zz',headers=headers,proxies=proxies,timeout=3)
                 if res.status_code==200:
                     num=0
                     f+=1

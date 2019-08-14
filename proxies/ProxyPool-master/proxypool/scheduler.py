@@ -1,4 +1,4 @@
-#调度器，之前的几个木块都由这里调度
+#调度器，之前的几个模块都由这里调度
 import time
 from multiprocessing import Process
 from proxypool.api import app

@@ -98,6 +98,7 @@ class Spider(object):
             else:
                 self.n+=1
                 print('被封了，或者网页不存在')
+                return None
 
     def jiexi(self, response,classification,url):
         '''

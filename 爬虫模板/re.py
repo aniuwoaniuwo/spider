@@ -9,14 +9,8 @@ import requests,json
 
 class Spider(object):
     def __init__(self):#这个适用非excel储存
-        iplist = ['61.135.217.7:80']
-        proxies = random.choice(iplist)
-        # proxies = {'http': proxies}
-        proxies = {'http': 'http://' + proxies, 'https': 'https://' + proxies, }
-        print(proxies)
-        self.proxies = proxies
-        self.referer=' '
-        self.cookie=' '
+        self.referer = ' '
+        self.cookie = ' '
         self.user_agent_list = [
             'MSIE (MSIE 6.0; X11; Linux; i686) Opera 7.23',
             'Opera/9.20 (Macintosh; Intel Mac OS X; U; en)',
@@ -30,9 +24,15 @@ class Spider(object):
             'Mozilla/4.77 [en] (X11; I; IRIX;64 6.5 IP30)',
             'Mozilla/4.8 [en] (X11; U; SunOS; 5.7 sun4u)'
         ]
-        self.k=1
-        self.n=0
-        self.cu = 0
+        # 重试阀值
+        # ip错误指数
+        self.iperror = 0
+        # 网页错误指数
+        self.urlerror = 0
+        # ip池
+        self.iplist = []
+        self.ip = {}
+        self.headers = {}
 
     '''def __init__(self):#这个是适用excel储存
 		self.m=0
@@ -79,35 +79,48 @@ class Spider(object):
         :param url:
         :return:
         '''
+        # proxies转为全局变量
+        global proxies
         try:
-            proxies = self.get_ip()
+            if len(self.iplist):
+                proxies = random.choice(self.iplist)
+            else:
+                proxies = self.get_ip()
+                self.iplist.append(proxies)
             if proxies:
-                self.proxies = {'http': 'http://' + proxies, 'https': 'https://' + proxies, }
+                self.ip = {'http': 'http://' + proxies, 'https': 'https://' + proxies, }
             user_agent = random.choice(self.user_agent_list)
             self.headers = {'User-Agent': user_agent, 'Referer': self.referer, 'Cookie': self.cookie}
-            response = requests.get(url, headers=self.headers, proxies=self.proxies)
-            if response.status_code==200:
-                self.cu = 0
+            response = requests.get(url, headers=self.headers, proxies=self.ip)
+            if response.status_code == 200:
+                self.urlerror = 0
+                self.iperror = 0
+                self.iplist.append(proxies)
                 return response.text
             else:
-                if self.cu<4:
-                    self.cu+=1
-                    print('出错了，重试第{}次'.format(self.cu))
+                if self.urlerror < 3:
+                    self.urlerror += 1
+                    print('出错了，重试第{}次'.format(self.urlerror))
                     self.spider(url)
                 else:
-                    self.cu = 0
-                    print('被封了，或者网页不存在,跳过')
+                    self.urlerror = 0
+                    self.iperror = 0
+                    print('网页不存在,跳过')
                     return None
         except Exception as e:
-            print(e)
-            print('ip无效')
-            print('出错了，重试第{}次'.format(self.cu))
-            time.sleep(5)
-            if self.cu < 4:
-                self.cu += 1
+            # print(e)
+            print('ip出错了，重试第{}次'.format(self.iperror))
+            # time.sleep(5)
+            if self.iperror < 4:
+                self.iperror += 1
                 self.spider(url)
             else:
-                print('被封了，或者网页不存在')
+                # self.iplist.pop(0)
+                self.iplist.remove(proxies)
+                print('ip被封了,或者ip无效,应该移除')
+                self.urlerror = 0
+                self.iperror = 0
+                return None
 
     def jiexi(self, response):
         '''
